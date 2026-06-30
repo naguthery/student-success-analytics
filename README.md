@@ -6,10 +6,10 @@ A data analytics project that examines university student performance to identif
 
 ## Author
 
-**Nicholas Guthery**
-Business Data Analytics Student
-W. P. Carey School of Business
-Arizona State University
+Nicholas Guthery  
+Business Data Analytics Student  
+W. P. Carey School of Business  
+Arizona State University  
 
 ---
 
