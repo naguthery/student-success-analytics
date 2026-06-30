@@ -119,49 +119,49 @@ The analysis includes metrics such as:
 
 ## Repository Structure
 
-student-success-analytics/
-│
-├── README.md
-│
-├── data/
-│   ├── README.md
-│   ├── Course_Sections.csv
-│   ├── Courses.csv
-│   ├── Departments.csv
-│   ├── Enrollments.csv
-│   ├── Grades.csv
-│   ├── Instructors.csv
-│   ├── Programs.csv
-│   ├── Student_Support.csv
-│   ├── Students.csv
-│   └── Terms.csv
-│
-├── notebooks/
-│   ├── README.md
-│   └── University_Analysis.ipynb
-│
-├── dashboards/
-│   ├── README.md
-│   ├── STUDENT_SUCCESS_DASHBOARD.twb
-│   ├── COURSE_AND_INSTRUCTOR_DASHBOARD.twb
-│   ├── STUDENT_RISK_AND_PERFORMANCE_DASHBOARD.twb
-│   ├── Student_Success_Dashboard_Link.txt
-│   ├── Course_Instructor_Dashboard_Link.txt
-│   └── Student_Risk_Dashboard_Link.txt
-│
-├── documents/
-│   ├── README.md
-│   ├── Student Success Analytics Full Report.pdf
-│   ├── Student Success Analytics Case Study.pdf
-│   └── Student Success Analytics ERD.pdf
-│
-└── images/
-    ├── README.md
-    ├── Student Success Dashboard Screenshot.png
-    ├── Course and Instructor Performance Dashboard Screenshot.png
-    ├── Student Risk and Performance Dashboard Screenshot.png
-    └── Student Success Analytics ERD Screenshot.png
----
+student-success-analytics/  
+│  
+├── README.md  
+│  
+├── data/  
+│   ├── README.md  
+│   ├── Course_Sections.csv  
+│   ├── Courses.csv  
+│   ├── Departments.csv  
+│   ├── Enrollments.csv  
+│   ├── Grades.csv  
+│   ├── Instructors.csv  
+│   ├── Programs.csv  
+│   ├── Student_Support.csv  
+│   ├── Students.csv  
+│   └── Terms.csv  
+│  
+├── notebooks/  
+│   ├── README.md  
+│   └── University_Analysis.ipynb  
+│  
+├── dashboards/  
+│   ├── README.md  
+│   ├── STUDENT_SUCCESS_DASHBOARD.twb  
+│   ├── COURSE_AND_INSTRUCTOR_DASHBOARD.twb  
+│   ├── STUDENT_RISK_AND_PERFORMANCE_DASHBOARD.twb  
+│   ├── Student_Success_Dashboard_Link.txt  
+│   ├── Course_Instructor_Dashboard_Link.txt  
+│   └── Student_Risk_Dashboard_Link.txt  
+│  
+├── documents/  
+│   ├── README.md  
+│   ├── Student Success Analytics Full Report.pdf  
+│   ├── Student Success Analytics Case Study.pdf  
+│   └── Student Success Analytics ERD.pdf  
+│  
+└── images/  
+    ├── README.md  
+    ├── Student Success Dashboard Screenshot.png  
+    ├── Course and Instructor Performance Dashboard Screenshot.png  
+    ├── Student Risk and Performance Dashboard Screenshot.png  
+    └── Student Success Analytics ERD Screenshot.png  
+---  
 
 ## Skills Demonstrated
 
