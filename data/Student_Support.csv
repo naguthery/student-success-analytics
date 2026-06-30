@@ -1,0 +1,5001 @@
+SupportID,StudentID,ParentEducation,InternetAccess
+1,10001,Some College,Yes
+2,10002,Graduate,Yes
+3,10003,High School,Yes
+4,10004,High School,Yes
+5,10005,Graduate,Yes
+6,10006,College,Yes
+7,10007,Graduate,Yes
+8,10008,High School,Yes
+9,10009,High School,Yes
+10,10010,High School,Yes
+11,10011,College,Yes
+12,10012,College,Yes
+13,10013,College,Yes
+14,10014,High School,No
+15,10015,Some College,Yes
+16,10016,Graduate,Yes
+17,10017,Graduate,No
+18,10018,High School,Yes
+19,10019,College,Yes
+20,10020,Some College,Yes
+21,10021,Some College,Yes
+22,10022,College,Yes
+23,10023,Graduate,Yes
+24,10024,Graduate,Yes
+25,10025,Some College,Yes
+26,10026,Some College,Yes
+27,10027,College,Yes
+28,10028,Graduate,No
+29,10029,Some College,Yes
+30,10030,Graduate,Yes
+31,10031,Some College,Yes
+32,10032,College,No
+33,10033,Graduate,Yes
+34,10034,Some College,Yes
+35,10035,Some College,Yes
+36,10036,Some College,Yes
+37,10037,Some College,Yes
+38,10038,College,Yes
+39,10039,Graduate,Yes
+40,10040,Graduate,Yes
+41,10041,High School,Yes
+42,10042,Graduate,Yes
+43,10043,High School,Yes
+44,10044,Some College,Yes
+45,10045,College,Yes
+46,10046,College,Yes
+47,10047,Some College,Yes
+48,10048,High School,Yes
+49,10049,Some College,Yes
+50,10050,College,Yes
+51,10051,College,Yes
+52,10052,Graduate,Yes
+53,10053,High School,Yes
+54,10054,Graduate,Yes
+55,10055,College,No
+56,10056,College,Yes
+57,10057,Graduate,No
+58,10058,Graduate,Yes
+59,10059,College,Yes
+60,10060,Graduate,Yes
+61,10061,Graduate,Yes
+62,10062,High School,Yes
+63,10063,College,Yes
+64,10064,Some College,Yes
+65,10065,High School,Yes
+66,10066,Some College,Yes
+67,10067,Graduate,Yes
+68,10068,Graduate,Yes
+69,10069,Some College,Yes
+70,10070,Graduate,Yes
+71,10071,Graduate,Yes
+72,10072,High School,Yes
+73,10073,Some College,Yes
+74,10074,High School,Yes
+75,10075,Some College,Yes
+76,10076,High School,Yes
+77,10077,College,Yes
+78,10078,College,Yes
+79,10079,Some College,Yes
+80,10080,College,Yes
+81,10081,High School,Yes
+82,10082,Some College,No
+83,10083,College,Yes
+84,10084,College,Yes
+85,10085,Some College,Yes
+86,10086,College,Yes
+87,10087,College,Yes
+88,10088,Some College,Yes
+89,10089,College,Yes
+90,10090,College,Yes
+91,10091,College,Yes
+92,10092,College,Yes
+93,10093,Graduate,No
+94,10094,Some College,Yes
+95,10095,Graduate,Yes
+96,10096,Graduate,Yes
+97,10097,High School,Yes
+98,10098,Graduate,Yes
+99,10099,Graduate,Yes
+100,10100,High School,Yes
+101,10101,College,Yes
+102,10102,College,No
+103,10103,Graduate,Yes
+104,10104,High School,Yes
+105,10105,College,Yes
+106,10106,High School,Yes
+107,10107,Some College,Yes
+108,10108,Some College,No
+109,10109,Some College,Yes
+110,10110,Some College,Yes
+111,10111,Graduate,Yes
+112,10112,Some College,Yes
+113,10113,Some College,Yes
+114,10114,High School,No
+115,10115,College,Yes
+116,10116,High School,Yes
+117,10117,Graduate,Yes
+118,10118,Some College,Yes
+119,10119,College,Yes
+120,10120,College,Yes
+121,10121,Some College,Yes
+122,10122,Some College,Yes
+123,10123,Graduate,Yes
+124,10124,Graduate,Yes
+125,10125,Some College,Yes
+126,10126,Some College,Yes
+127,10127,Some College,Yes
+128,10128,Some College,Yes
+129,10129,College,Yes
+130,10130,Graduate,Yes
+131,10131,Some College,Yes
+132,10132,Some College,Yes
+133,10133,College,Yes
+134,10134,High School,Yes
+135,10135,Some College,Yes
+136,10136,College,Yes
+137,10137,College,Yes
+138,10138,High School,Yes
+139,10139,Graduate,Yes
+140,10140,Graduate,Yes
+141,10141,Graduate,Yes
+142,10142,Some College,Yes
+143,10143,Graduate,Yes
+144,10144,Some College,Yes
+145,10145,Some College,Yes
+146,10146,College,Yes
+147,10147,Graduate,Yes
+148,10148,Graduate,Yes
+149,10149,Graduate,Yes
+150,10150,Some College,Yes
+151,10151,Some College,Yes
+152,10152,Graduate,Yes
+153,10153,Some College,Yes
+154,10154,Some College,Yes
+155,10155,High School,Yes
+156,10156,High School,Yes
+157,10157,Graduate,Yes
+158,10158,Graduate,Yes
+159,10159,High School,Yes
+160,10160,Some College,Yes
+161,10161,Some College,Yes
+162,10162,College,Yes
+163,10163,Graduate,Yes
+164,10164,Graduate,Yes
+165,10165,Graduate,No
+166,10166,College,Yes
+167,10167,College,Yes
+168,10168,Some College,Yes
+169,10169,High School,No
+170,10170,High School,Yes
+171,10171,High School,Yes
+172,10172,Some College,Yes
+173,10173,High School,Yes
+174,10174,College,Yes
+175,10175,College,No
+176,10176,Graduate,Yes
+177,10177,High School,Yes
+178,10178,College,Yes
+179,10179,Graduate,Yes
+180,10180,High School,Yes
+181,10181,High School,Yes
+182,10182,College,Yes
+183,10183,Graduate,No
+184,10184,Graduate,Yes
+185,10185,College,Yes
+186,10186,College,Yes
+187,10187,College,Yes
+188,10188,High School,Yes
+189,10189,College,No
+190,10190,College,Yes
+191,10191,Some College,Yes
+192,10192,College,Yes
+193,10193,College,Yes
+194,10194,High School,Yes
+195,10195,Graduate,Yes
+196,10196,High School,No
+197,10197,Some College,Yes
+198,10198,College,Yes
+199,10199,College,Yes
+200,10200,College,Yes
+201,10201,College,Yes
+202,10202,College,Yes
+203,10203,College,Yes
+204,10204,Some College,Yes
+205,10205,College,Yes
+206,10206,College,Yes
+207,10207,College,Yes
+208,10208,Some College,Yes
+209,10209,College,Yes
+210,10210,Some College,Yes
+211,10211,High School,Yes
+212,10212,College,Yes
+213,10213,Graduate,Yes
+214,10214,Some College,Yes
+215,10215,High School,Yes
+216,10216,Some College,Yes
+217,10217,Some College,Yes
+218,10218,High School,Yes
+219,10219,College,Yes
+220,10220,College,Yes
+221,10221,Some College,Yes
+222,10222,High School,Yes
+223,10223,College,Yes
+224,10224,Some College,Yes
+225,10225,Graduate,Yes
+226,10226,High School,No
+227,10227,Graduate,Yes
+228,10228,Graduate,Yes
+229,10229,Some College,Yes
+230,10230,High School,Yes
+231,10231,College,Yes
+232,10232,College,Yes
+233,10233,Some College,Yes
+234,10234,College,Yes
+235,10235,College,Yes
+236,10236,Graduate,Yes
+237,10237,Graduate,Yes
+238,10238,High School,Yes
+239,10239,Graduate,Yes
+240,10240,College,Yes
+241,10241,High School,Yes
+242,10242,High School,Yes
+243,10243,Some College,Yes
+244,10244,Graduate,Yes
+245,10245,High School,Yes
+246,10246,College,Yes
+247,10247,High School,Yes
+248,10248,High School,Yes
+249,10249,Some College,Yes
+250,10250,College,Yes
+251,10251,College,Yes
+252,10252,Graduate,No
+253,10253,College,Yes
+254,10254,High School,Yes
+255,10255,College,Yes
+256,10256,College,Yes
+257,10257,High School,Yes
+258,10258,Some College,Yes
+259,10259,Graduate,Yes
+260,10260,Graduate,Yes
+261,10261,Some College,Yes
+262,10262,High School,Yes
+263,10263,Graduate,Yes
+264,10264,Some College,Yes
+265,10265,Some College,Yes
+266,10266,Some College,Yes
+267,10267,Graduate,Yes
+268,10268,Graduate,Yes
+269,10269,Graduate,Yes
+270,10270,Graduate,Yes
+271,10271,College,No
+272,10272,Some College,Yes
+273,10273,College,Yes
+274,10274,Some College,Yes
+275,10275,Graduate,Yes
+276,10276,Graduate,Yes
+277,10277,College,No
+278,10278,High School,Yes
+279,10279,Graduate,Yes
+280,10280,High School,Yes
+281,10281,Some College,Yes
+282,10282,College,Yes
+283,10283,High School,Yes
+284,10284,High School,No
+285,10285,Graduate,Yes
+286,10286,High School,Yes
+287,10287,High School,Yes
+288,10288,Some College,Yes
+289,10289,College,Yes
+290,10290,Graduate,Yes
+291,10291,Graduate,Yes
+292,10292,High School,Yes
+293,10293,Some College,No
+294,10294,High School,Yes
+295,10295,High School,Yes
+296,10296,Graduate,Yes
+297,10297,High School,No
+298,10298,High School,Yes
+299,10299,Some College,Yes
+300,10300,Graduate,Yes
+301,10301,College,Yes
+302,10302,Some College,Yes
+303,10303,Some College,Yes
+304,10304,Some College,Yes
+305,10305,Graduate,No
+306,10306,High School,Yes
+307,10307,College,Yes
+308,10308,Graduate,Yes
+309,10309,High School,Yes
+310,10310,Some College,Yes
+311,10311,Graduate,Yes
+312,10312,High School,Yes
+313,10313,College,Yes
+314,10314,College,Yes
+315,10315,High School,Yes
+316,10316,Graduate,Yes
+317,10317,Some College,Yes
+318,10318,High School,Yes
+319,10319,Some College,Yes
+320,10320,College,Yes
+321,10321,High School,No
+322,10322,College,No
+323,10323,Some College,No
+324,10324,Some College,Yes
+325,10325,High School,Yes
+326,10326,High School,Yes
+327,10327,High School,Yes
+328,10328,College,Yes
+329,10329,Some College,No
+330,10330,Some College,Yes
+331,10331,College,Yes
+332,10332,High School,Yes
+333,10333,Graduate,Yes
+334,10334,High School,Yes
+335,10335,Graduate,Yes
+336,10336,Graduate,Yes
+337,10337,College,Yes
+338,10338,Some College,Yes
+339,10339,Some College,Yes
+340,10340,Some College,Yes
+341,10341,Some College,Yes
+342,10342,College,Yes
+343,10343,Graduate,No
+344,10344,Some College,Yes
+345,10345,Graduate,Yes
+346,10346,College,Yes
+347,10347,High School,Yes
+348,10348,College,Yes
+349,10349,Some College,Yes
+350,10350,High School,Yes
+351,10351,College,Yes
+352,10352,College,Yes
+353,10353,Graduate,Yes
+354,10354,College,Yes
+355,10355,High School,Yes
+356,10356,College,Yes
+357,10357,Some College,Yes
+358,10358,Graduate,Yes
+359,10359,High School,Yes
+360,10360,High School,No
+361,10361,College,Yes
+362,10362,Some College,Yes
+363,10363,Graduate,Yes
+364,10364,High School,Yes
+365,10365,Graduate,Yes
+366,10366,College,Yes
+367,10367,Some College,Yes
+368,10368,College,Yes
+369,10369,Graduate,Yes
+370,10370,College,Yes
+371,10371,Graduate,Yes
+372,10372,High School,No
+373,10373,High School,Yes
+374,10374,College,Yes
+375,10375,High School,Yes
+376,10376,Graduate,Yes
+377,10377,High School,No
+378,10378,Some College,Yes
+379,10379,Some College,Yes
+380,10380,College,Yes
+381,10381,College,Yes
+382,10382,College,Yes
+383,10383,College,Yes
+384,10384,Graduate,Yes
+385,10385,Graduate,Yes
+386,10386,Some College,Yes
+387,10387,Graduate,Yes
+388,10388,High School,Yes
+389,10389,Some College,Yes
+390,10390,College,Yes
+391,10391,College,Yes
+392,10392,Graduate,Yes
+393,10393,Some College,No
+394,10394,Graduate,Yes
+395,10395,Graduate,Yes
+396,10396,Graduate,Yes
+397,10397,Some College,Yes
+398,10398,College,Yes
+399,10399,High School,No
+400,10400,College,Yes
+401,10401,Some College,Yes
+402,10402,College,Yes
+403,10403,College,Yes
+404,10404,High School,Yes
+405,10405,College,Yes
+406,10406,College,Yes
+407,10407,College,Yes
+408,10408,Graduate,Yes
+409,10409,Some College,Yes
+410,10410,Some College,Yes
+411,10411,High School,Yes
+412,10412,Graduate,Yes
+413,10413,Graduate,Yes
+414,10414,College,Yes
+415,10415,Some College,Yes
+416,10416,High School,Yes
+417,10417,Graduate,Yes
+418,10418,College,Yes
+419,10419,High School,No
+420,10420,Graduate,Yes
+421,10421,High School,Yes
+422,10422,Graduate,Yes
+423,10423,High School,Yes
+424,10424,Graduate,Yes
+425,10425,Graduate,Yes
+426,10426,High School,Yes
+427,10427,Graduate,Yes
+428,10428,Graduate,Yes
+429,10429,Graduate,Yes
+430,10430,High School,No
+431,10431,High School,Yes
+432,10432,Graduate,Yes
+433,10433,Graduate,No
+434,10434,High School,Yes
+435,10435,College,Yes
+436,10436,Graduate,Yes
+437,10437,College,Yes
+438,10438,High School,Yes
+439,10439,Graduate,Yes
+440,10440,College,Yes
+441,10441,High School,Yes
+442,10442,College,Yes
+443,10443,Some College,Yes
+444,10444,High School,Yes
+445,10445,Some College,Yes
+446,10446,High School,Yes
+447,10447,High School,Yes
+448,10448,Graduate,Yes
+449,10449,Some College,No
+450,10450,Some College,Yes
+451,10451,Some College,Yes
+452,10452,High School,Yes
+453,10453,Some College,Yes
+454,10454,Some College,Yes
+455,10455,Graduate,Yes
+456,10456,College,Yes
+457,10457,College,Yes
+458,10458,Some College,Yes
+459,10459,Some College,Yes
+460,10460,Some College,Yes
+461,10461,Some College,Yes
+462,10462,College,Yes
+463,10463,Graduate,Yes
+464,10464,High School,Yes
+465,10465,Some College,Yes
+466,10466,Some College,Yes
+467,10467,College,Yes
+468,10468,Some College,Yes
+469,10469,Graduate,Yes
+470,10470,Graduate,Yes
+471,10471,Some College,Yes
+472,10472,College,Yes
+473,10473,Some College,Yes
+474,10474,Some College,Yes
+475,10475,College,Yes
+476,10476,Graduate,No
+477,10477,High School,Yes
+478,10478,Some College,Yes
+479,10479,Graduate,Yes
+480,10480,Some College,Yes
+481,10481,High School,Yes
+482,10482,College,Yes
+483,10483,Graduate,Yes
+484,10484,High School,Yes
+485,10485,Some College,Yes
+486,10486,High School,Yes
+487,10487,Graduate,Yes
+488,10488,College,Yes
+489,10489,Some College,Yes
+490,10490,College,No
+491,10491,College,Yes
+492,10492,High School,Yes
+493,10493,High School,Yes
+494,10494,Graduate,Yes
+495,10495,Graduate,No
+496,10496,College,Yes
+497,10497,Graduate,Yes
+498,10498,College,Yes
+499,10499,Some College,Yes
+500,10500,College,Yes
+501,10501,Graduate,Yes
+502,10502,Graduate,Yes
+503,10503,College,No
+504,10504,High School,Yes
+505,10505,College,Yes
+506,10506,College,Yes
+507,10507,High School,Yes
+508,10508,Some College,Yes
+509,10509,High School,Yes
+510,10510,Graduate,Yes
+511,10511,High School,Yes
+512,10512,Graduate,Yes
+513,10513,Graduate,Yes
+514,10514,College,Yes
+515,10515,College,No
+516,10516,Some College,Yes
+517,10517,Graduate,Yes
+518,10518,College,Yes
+519,10519,Graduate,Yes
+520,10520,Some College,Yes
+521,10521,Graduate,Yes
+522,10522,Some College,Yes
+523,10523,Some College,Yes
+524,10524,Some College,Yes
+525,10525,College,Yes
+526,10526,High School,Yes
+527,10527,High School,Yes
+528,10528,College,Yes
+529,10529,Graduate,Yes
+530,10530,College,No
+531,10531,Graduate,Yes
+532,10532,Some College,Yes
+533,10533,College,Yes
+534,10534,High School,Yes
+535,10535,Graduate,Yes
+536,10536,College,Yes
+537,10537,College,Yes
+538,10538,Graduate,Yes
+539,10539,Some College,Yes
+540,10540,Some College,Yes
+541,10541,Some College,Yes
+542,10542,Some College,Yes
+543,10543,Graduate,Yes
+544,10544,High School,Yes
+545,10545,College,Yes
+546,10546,College,Yes
+547,10547,Some College,No
+548,10548,Graduate,Yes
+549,10549,High School,No
+550,10550,High School,Yes
+551,10551,College,No
+552,10552,Some College,Yes
+553,10553,College,Yes
+554,10554,College,Yes
+555,10555,High School,Yes
+556,10556,Graduate,Yes
+557,10557,High School,Yes
+558,10558,College,Yes
+559,10559,Some College,No
+560,10560,Some College,Yes
+561,10561,Graduate,Yes
+562,10562,Graduate,Yes
+563,10563,Graduate,No
+564,10564,College,No
+565,10565,College,Yes
+566,10566,Graduate,Yes
+567,10567,Some College,Yes
+568,10568,Some College,Yes
+569,10569,Some College,Yes
+570,10570,College,Yes
+571,10571,High School,Yes
+572,10572,Some College,Yes
+573,10573,Some College,Yes
+574,10574,Some College,Yes
+575,10575,Graduate,Yes
+576,10576,College,Yes
+577,10577,Graduate,Yes
+578,10578,Graduate,Yes
+579,10579,High School,Yes
+580,10580,Graduate,Yes
+581,10581,High School,No
+582,10582,Graduate,Yes
+583,10583,Some College,Yes
+584,10584,College,Yes
+585,10585,Graduate,Yes
+586,10586,High School,Yes
+587,10587,College,Yes
+588,10588,High School,Yes
+589,10589,Some College,Yes
+590,10590,Graduate,Yes
+591,10591,College,Yes
+592,10592,Some College,Yes
+593,10593,Graduate,Yes
+594,10594,Graduate,Yes
+595,10595,High School,Yes
+596,10596,High School,Yes
+597,10597,Some College,Yes
+598,10598,High School,Yes
+599,10599,Some College,Yes
+600,10600,Some College,Yes
+601,10601,Some College,Yes
+602,10602,High School,Yes
+603,10603,College,Yes
+604,10604,Some College,Yes
+605,10605,College,Yes
+606,10606,Graduate,No
+607,10607,High School,Yes
+608,10608,High School,Yes
+609,10609,College,Yes
+610,10610,Graduate,Yes
+611,10611,Graduate,Yes
+612,10612,Some College,Yes
+613,10613,High School,No
+614,10614,Graduate,Yes
+615,10615,Graduate,No
+616,10616,Some College,Yes
+617,10617,Some College,Yes
+618,10618,College,Yes
+619,10619,High School,Yes
+620,10620,Graduate,Yes
+621,10621,College,Yes
+622,10622,High School,Yes
+623,10623,College,Yes
+624,10624,High School,Yes
+625,10625,High School,Yes
+626,10626,Graduate,Yes
+627,10627,High School,Yes
+628,10628,Some College,Yes
+629,10629,Graduate,Yes
+630,10630,Some College,Yes
+631,10631,College,Yes
+632,10632,College,Yes
+633,10633,High School,Yes
+634,10634,High School,Yes
+635,10635,Some College,Yes
+636,10636,Some College,Yes
+637,10637,Some College,Yes
+638,10638,College,Yes
+639,10639,Some College,Yes
+640,10640,Graduate,Yes
+641,10641,Graduate,Yes
+642,10642,College,Yes
+643,10643,Some College,Yes
+644,10644,Some College,Yes
+645,10645,High School,Yes
+646,10646,Graduate,Yes
+647,10647,College,Yes
+648,10648,Some College,Yes
+649,10649,High School,Yes
+650,10650,College,Yes
+651,10651,College,Yes
+652,10652,Graduate,Yes
+653,10653,Some College,Yes
+654,10654,College,Yes
+655,10655,High School,Yes
+656,10656,High School,No
+657,10657,College,Yes
+658,10658,High School,No
+659,10659,College,Yes
+660,10660,High School,Yes
+661,10661,College,Yes
+662,10662,College,Yes
+663,10663,College,No
+664,10664,High School,Yes
+665,10665,College,Yes
+666,10666,Graduate,Yes
+667,10667,College,Yes
+668,10668,Some College,Yes
+669,10669,Some College,Yes
+670,10670,Graduate,No
+671,10671,College,Yes
+672,10672,Some College,Yes
+673,10673,College,Yes
+674,10674,Some College,Yes
+675,10675,High School,Yes
+676,10676,High School,Yes
+677,10677,Graduate,Yes
+678,10678,Graduate,Yes
+679,10679,College,No
+680,10680,Graduate,Yes
+681,10681,College,Yes
+682,10682,High School,Yes
+683,10683,High School,Yes
+684,10684,Some College,Yes
+685,10685,College,Yes
+686,10686,High School,Yes
+687,10687,High School,No
+688,10688,College,Yes
+689,10689,Some College,Yes
+690,10690,Some College,No
+691,10691,Some College,Yes
+692,10692,Some College,Yes
+693,10693,High School,Yes
+694,10694,College,No
+695,10695,College,Yes
+696,10696,High School,Yes
+697,10697,High School,Yes
+698,10698,High School,Yes
+699,10699,Graduate,Yes
+700,10700,College,Yes
+701,10701,College,Yes
+702,10702,College,Yes
+703,10703,Some College,Yes
+704,10704,High School,Yes
+705,10705,High School,Yes
+706,10706,High School,Yes
+707,10707,Graduate,Yes
+708,10708,College,Yes
+709,10709,High School,Yes
+710,10710,Graduate,Yes
+711,10711,High School,Yes
+712,10712,Some College,Yes
+713,10713,College,Yes
+714,10714,Graduate,Yes
+715,10715,High School,No
+716,10716,College,Yes
+717,10717,Graduate,Yes
+718,10718,College,Yes
+719,10719,College,Yes
+720,10720,Some College,Yes
+721,10721,College,Yes
+722,10722,Graduate,Yes
+723,10723,College,Yes
+724,10724,Graduate,Yes
+725,10725,College,Yes
+726,10726,High School,Yes
+727,10727,Some College,Yes
+728,10728,High School,Yes
+729,10729,Some College,Yes
+730,10730,Graduate,Yes
+731,10731,Some College,Yes
+732,10732,College,Yes
+733,10733,College,Yes
+734,10734,High School,Yes
+735,10735,Some College,Yes
+736,10736,Graduate,Yes
+737,10737,Graduate,Yes
+738,10738,College,Yes
+739,10739,Graduate,Yes
+740,10740,College,Yes
+741,10741,College,Yes
+742,10742,College,Yes
+743,10743,High School,Yes
+744,10744,High School,Yes
+745,10745,College,Yes
+746,10746,College,Yes
+747,10747,College,Yes
+748,10748,Graduate,Yes
+749,10749,College,Yes
+750,10750,College,Yes
+751,10751,Some College,Yes
+752,10752,Some College,Yes
+753,10753,Some College,Yes
+754,10754,Some College,Yes
+755,10755,College,Yes
+756,10756,Some College,Yes
+757,10757,Graduate,Yes
+758,10758,Graduate,Yes
+759,10759,Some College,Yes
+760,10760,High School,Yes
+761,10761,Graduate,Yes
+762,10762,Graduate,Yes
+763,10763,Some College,Yes
+764,10764,Some College,Yes
+765,10765,College,Yes
+766,10766,Graduate,Yes
+767,10767,Some College,Yes
+768,10768,Some College,Yes
+769,10769,College,Yes
+770,10770,Graduate,Yes
+771,10771,Some College,No
+772,10772,College,Yes
+773,10773,Some College,Yes
+774,10774,High School,Yes
+775,10775,High School,Yes
+776,10776,Some College,Yes
+777,10777,Graduate,Yes
+778,10778,High School,Yes
+779,10779,College,Yes
+780,10780,Some College,Yes
+781,10781,College,Yes
+782,10782,High School,Yes
+783,10783,Graduate,Yes
+784,10784,College,No
+785,10785,High School,Yes
+786,10786,High School,Yes
+787,10787,High School,Yes
+788,10788,College,Yes
+789,10789,High School,Yes
+790,10790,Some College,Yes
+791,10791,High School,Yes
+792,10792,Some College,Yes
+793,10793,Graduate,Yes
+794,10794,Some College,Yes
+795,10795,Graduate,Yes
+796,10796,Graduate,Yes
+797,10797,Some College,Yes
+798,10798,Graduate,Yes
+799,10799,Some College,Yes
+800,10800,College,Yes
+801,10801,Graduate,Yes
+802,10802,Some College,Yes
+803,10803,Graduate,Yes
+804,10804,High School,Yes
+805,10805,Some College,No
+806,10806,High School,Yes
+807,10807,Graduate,Yes
+808,10808,Graduate,No
+809,10809,College,Yes
+810,10810,Some College,Yes
+811,10811,High School,Yes
+812,10812,College,Yes
+813,10813,Graduate,Yes
+814,10814,Graduate,Yes
+815,10815,College,Yes
+816,10816,High School,Yes
+817,10817,Graduate,Yes
+818,10818,Graduate,No
+819,10819,Some College,Yes
+820,10820,College,Yes
+821,10821,Graduate,Yes
+822,10822,High School,Yes
+823,10823,Some College,Yes
+824,10824,College,Yes
+825,10825,High School,Yes
+826,10826,Graduate,Yes
+827,10827,College,Yes
+828,10828,College,Yes
+829,10829,High School,Yes
+830,10830,College,Yes
+831,10831,High School,No
+832,10832,Graduate,No
+833,10833,Some College,No
+834,10834,High School,Yes
+835,10835,Some College,Yes
+836,10836,College,Yes
+837,10837,High School,Yes
+838,10838,Graduate,Yes
+839,10839,High School,Yes
+840,10840,High School,Yes
+841,10841,High School,Yes
+842,10842,Some College,Yes
+843,10843,Some College,Yes
+844,10844,College,Yes
+845,10845,College,Yes
+846,10846,College,No
+847,10847,College,Yes
+848,10848,High School,Yes
+849,10849,Some College,Yes
+850,10850,Some College,Yes
+851,10851,Some College,Yes
+852,10852,Some College,Yes
+853,10853,College,Yes
+854,10854,High School,No
+855,10855,Some College,Yes
+856,10856,Graduate,Yes
+857,10857,High School,Yes
+858,10858,Graduate,Yes
+859,10859,High School,Yes
+860,10860,High School,Yes
+861,10861,High School,Yes
+862,10862,Graduate,Yes
+863,10863,Some College,No
+864,10864,Some College,Yes
+865,10865,Graduate,Yes
+866,10866,Some College,Yes
+867,10867,College,Yes
+868,10868,Some College,Yes
+869,10869,College,Yes
+870,10870,College,Yes
+871,10871,College,Yes
+872,10872,Graduate,Yes
+873,10873,Some College,Yes
+874,10874,Some College,Yes
+875,10875,Graduate,Yes
+876,10876,Graduate,Yes
+877,10877,Some College,Yes
+878,10878,Graduate,Yes
+879,10879,Graduate,Yes
+880,10880,College,Yes
+881,10881,Graduate,Yes
+882,10882,College,Yes
+883,10883,High School,Yes
+884,10884,College,Yes
+885,10885,College,Yes
+886,10886,Graduate,Yes
+887,10887,Some College,Yes
+888,10888,High School,Yes
+889,10889,High School,Yes
+890,10890,High School,Yes
+891,10891,Some College,Yes
+892,10892,High School,Yes
+893,10893,High School,Yes
+894,10894,Some College,Yes
+895,10895,High School,Yes
+896,10896,Graduate,Yes
+897,10897,Graduate,Yes
+898,10898,College,Yes
+899,10899,College,Yes
+900,10900,College,Yes
+901,10901,Graduate,Yes
+902,10902,Graduate,Yes
+903,10903,Graduate,Yes
+904,10904,College,Yes
+905,10905,College,Yes
+906,10906,College,Yes
+907,10907,College,Yes
+908,10908,College,Yes
+909,10909,College,Yes
+910,10910,Graduate,Yes
+911,10911,Some College,Yes
+912,10912,Some College,Yes
+913,10913,College,Yes
+914,10914,Some College,Yes
+915,10915,Some College,Yes
+916,10916,Graduate,Yes
+917,10917,College,Yes
+918,10918,College,Yes
+919,10919,Some College,Yes
+920,10920,College,Yes
+921,10921,College,No
+922,10922,College,Yes
+923,10923,College,Yes
+924,10924,Some College,Yes
+925,10925,High School,Yes
+926,10926,Some College,Yes
+927,10927,Graduate,Yes
+928,10928,High School,Yes
+929,10929,High School,Yes
+930,10930,High School,Yes
+931,10931,Some College,Yes
+932,10932,Graduate,No
+933,10933,Some College,Yes
+934,10934,Graduate,No
+935,10935,Some College,Yes
+936,10936,Some College,Yes
+937,10937,Some College,Yes
+938,10938,High School,Yes
+939,10939,Some College,Yes
+940,10940,Graduate,No
+941,10941,Graduate,No
+942,10942,Graduate,Yes
+943,10943,High School,Yes
+944,10944,Some College,Yes
+945,10945,Some College,Yes
+946,10946,College,Yes
+947,10947,High School,Yes
+948,10948,Graduate,Yes
+949,10949,Graduate,Yes
+950,10950,Some College,Yes
+951,10951,Graduate,Yes
+952,10952,Some College,Yes
+953,10953,Some College,No
+954,10954,College,Yes
+955,10955,High School,Yes
+956,10956,Some College,Yes
+957,10957,Some College,No
+958,10958,Some College,Yes
+959,10959,College,Yes
+960,10960,Some College,Yes
+961,10961,High School,Yes
+962,10962,High School,Yes
+963,10963,Graduate,No
+964,10964,High School,Yes
+965,10965,Graduate,No
+966,10966,High School,Yes
+967,10967,Graduate,Yes
+968,10968,Some College,Yes
+969,10969,College,Yes
+970,10970,College,Yes
+971,10971,College,No
+972,10972,Some College,Yes
+973,10973,College,Yes
+974,10974,High School,Yes
+975,10975,Graduate,Yes
+976,10976,Some College,Yes
+977,10977,College,No
+978,10978,High School,Yes
+979,10979,High School,Yes
+980,10980,Some College,Yes
+981,10981,Some College,Yes
+982,10982,College,Yes
+983,10983,Graduate,Yes
+984,10984,College,Yes
+985,10985,College,Yes
+986,10986,Some College,Yes
+987,10987,College,Yes
+988,10988,College,Yes
+989,10989,Graduate,Yes
+990,10990,High School,Yes
+991,10991,High School,Yes
+992,10992,Graduate,Yes
+993,10993,High School,No
+994,10994,College,Yes
+995,10995,Graduate,Yes
+996,10996,Graduate,Yes
+997,10997,Some College,Yes
+998,10998,High School,Yes
+999,10999,Some College,Yes
+1000,11000,College,Yes
+1001,11001,Graduate,Yes
+1002,11002,College,Yes
+1003,11003,High School,Yes
+1004,11004,Some College,Yes
+1005,11005,High School,Yes
+1006,11006,College,Yes
+1007,11007,Some College,Yes
+1008,11008,High School,Yes
+1009,11009,College,Yes
+1010,11010,High School,Yes
+1011,11011,Graduate,Yes
+1012,11012,Some College,Yes
+1013,11013,Some College,Yes
+1014,11014,Some College,Yes
+1015,11015,Graduate,No
+1016,11016,Some College,Yes
+1017,11017,Graduate,No
+1018,11018,Some College,Yes
+1019,11019,High School,Yes
+1020,11020,High School,Yes
+1021,11021,High School,Yes
+1022,11022,High School,Yes
+1023,11023,Graduate,Yes
+1024,11024,College,Yes
+1025,11025,College,Yes
+1026,11026,High School,Yes
+1027,11027,College,No
+1028,11028,College,Yes
+1029,11029,Some College,Yes
+1030,11030,Graduate,Yes
+1031,11031,High School,Yes
+1032,11032,College,Yes
+1033,11033,College,Yes
+1034,11034,High School,Yes
+1035,11035,Some College,Yes
+1036,11036,High School,Yes
+1037,11037,Some College,Yes
+1038,11038,College,Yes
+1039,11039,Graduate,Yes
+1040,11040,Some College,Yes
+1041,11041,Some College,Yes
+1042,11042,High School,Yes
+1043,11043,College,Yes
+1044,11044,Graduate,Yes
+1045,11045,High School,Yes
+1046,11046,High School,No
+1047,11047,Graduate,Yes
+1048,11048,College,Yes
+1049,11049,Graduate,Yes
+1050,11050,High School,No
+1051,11051,High School,Yes
+1052,11052,Some College,Yes
+1053,11053,Graduate,Yes
+1054,11054,Graduate,Yes
+1055,11055,Graduate,Yes
+1056,11056,High School,Yes
+1057,11057,College,No
+1058,11058,High School,Yes
+1059,11059,Some College,Yes
+1060,11060,High School,Yes
+1061,11061,High School,No
+1062,11062,High School,Yes
+1063,11063,Some College,Yes
+1064,11064,Graduate,Yes
+1065,11065,College,Yes
+1066,11066,College,Yes
+1067,11067,Some College,Yes
+1068,11068,Graduate,No
+1069,11069,Graduate,Yes
+1070,11070,Some College,Yes
+1071,11071,High School,Yes
+1072,11072,Graduate,Yes
+1073,11073,College,Yes
+1074,11074,Some College,No
+1075,11075,College,Yes
+1076,11076,High School,Yes
+1077,11077,Some College,Yes
+1078,11078,College,Yes
+1079,11079,College,Yes
+1080,11080,High School,Yes
+1081,11081,Some College,Yes
+1082,11082,Graduate,Yes
+1083,11083,Graduate,Yes
+1084,11084,College,Yes
+1085,11085,High School,Yes
+1086,11086,College,Yes
+1087,11087,High School,Yes
+1088,11088,Graduate,Yes
+1089,11089,College,Yes
+1090,11090,College,Yes
+1091,11091,High School,Yes
+1092,11092,Some College,Yes
+1093,11093,High School,Yes
+1094,11094,Some College,Yes
+1095,11095,Graduate,Yes
+1096,11096,College,Yes
+1097,11097,College,Yes
+1098,11098,High School,Yes
+1099,11099,High School,Yes
+1100,11100,Graduate,Yes
+1101,11101,Graduate,Yes
+1102,11102,Some College,Yes
+1103,11103,Graduate,Yes
+1104,11104,Graduate,Yes
+1105,11105,Graduate,No
+1106,11106,Graduate,Yes
+1107,11107,Some College,No
+1108,11108,Graduate,Yes
+1109,11109,Some College,Yes
+1110,11110,High School,Yes
+1111,11111,College,Yes
+1112,11112,High School,Yes
+1113,11113,Graduate,Yes
+1114,11114,College,Yes
+1115,11115,Graduate,No
+1116,11116,Graduate,Yes
+1117,11117,High School,Yes
+1118,11118,Graduate,No
+1119,11119,High School,Yes
+1120,11120,Graduate,Yes
+1121,11121,Some College,Yes
+1122,11122,College,Yes
+1123,11123,High School,Yes
+1124,11124,High School,Yes
+1125,11125,College,Yes
+1126,11126,High School,Yes
+1127,11127,College,Yes
+1128,11128,Some College,No
+1129,11129,Graduate,Yes
+1130,11130,Some College,Yes
+1131,11131,Graduate,Yes
+1132,11132,College,Yes
+1133,11133,Some College,Yes
+1134,11134,Graduate,Yes
+1135,11135,College,Yes
+1136,11136,Graduate,Yes
+1137,11137,High School,Yes
+1138,11138,High School,Yes
+1139,11139,College,Yes
+1140,11140,Graduate,Yes
+1141,11141,High School,Yes
+1142,11142,Some College,Yes
+1143,11143,Graduate,Yes
+1144,11144,Graduate,Yes
+1145,11145,High School,Yes
+1146,11146,High School,Yes
+1147,11147,College,Yes
+1148,11148,Graduate,Yes
+1149,11149,Some College,Yes
+1150,11150,High School,Yes
+1151,11151,Graduate,Yes
+1152,11152,High School,Yes
+1153,11153,College,Yes
+1154,11154,Graduate,Yes
+1155,11155,Graduate,Yes
+1156,11156,College,Yes
+1157,11157,Some College,Yes
+1158,11158,High School,Yes
+1159,11159,College,Yes
+1160,11160,Graduate,Yes
+1161,11161,College,Yes
+1162,11162,Graduate,Yes
+1163,11163,College,No
+1164,11164,Some College,Yes
+1165,11165,Graduate,Yes
+1166,11166,College,Yes
+1167,11167,Some College,Yes
+1168,11168,Some College,No
+1169,11169,High School,Yes
+1170,11170,Graduate,Yes
+1171,11171,High School,Yes
+1172,11172,Some College,Yes
+1173,11173,High School,No
+1174,11174,High School,Yes
+1175,11175,College,Yes
+1176,11176,High School,Yes
+1177,11177,Some College,Yes
+1178,11178,High School,Yes
+1179,11179,Graduate,Yes
+1180,11180,College,Yes
+1181,11181,Some College,Yes
+1182,11182,High School,Yes
+1183,11183,Graduate,No
+1184,11184,Some College,Yes
+1185,11185,High School,Yes
+1186,11186,College,Yes
+1187,11187,High School,Yes
+1188,11188,Some College,No
+1189,11189,Some College,Yes
+1190,11190,Some College,Yes
+1191,11191,Graduate,Yes
+1192,11192,High School,Yes
+1193,11193,High School,No
+1194,11194,High School,No
+1195,11195,College,Yes
+1196,11196,Graduate,No
+1197,11197,Graduate,Yes
+1198,11198,College,Yes
+1199,11199,Graduate,Yes
+1200,11200,College,Yes
+1201,11201,Some College,Yes
+1202,11202,Some College,Yes
+1203,11203,Graduate,Yes
+1204,11204,Some College,Yes
+1205,11205,Some College,Yes
+1206,11206,Some College,Yes
+1207,11207,High School,Yes
+1208,11208,Some College,Yes
+1209,11209,High School,Yes
+1210,11210,College,Yes
+1211,11211,College,Yes
+1212,11212,College,Yes
+1213,11213,College,Yes
+1214,11214,College,Yes
+1215,11215,Some College,Yes
+1216,11216,Some College,Yes
+1217,11217,Some College,Yes
+1218,11218,College,Yes
+1219,11219,College,Yes
+1220,11220,High School,Yes
+1221,11221,Graduate,Yes
+1222,11222,Some College,Yes
+1223,11223,Graduate,Yes
+1224,11224,College,Yes
+1225,11225,College,Yes
+1226,11226,College,Yes
+1227,11227,Graduate,Yes
+1228,11228,High School,Yes
+1229,11229,College,Yes
+1230,11230,High School,Yes
+1231,11231,High School,Yes
+1232,11232,Some College,Yes
+1233,11233,Graduate,Yes
+1234,11234,College,Yes
+1235,11235,High School,Yes
+1236,11236,Graduate,Yes
+1237,11237,Graduate,Yes
+1238,11238,College,Yes
+1239,11239,Some College,Yes
+1240,11240,Some College,Yes
+1241,11241,High School,Yes
+1242,11242,Some College,Yes
+1243,11243,Some College,Yes
+1244,11244,Some College,Yes
+1245,11245,Graduate,Yes
+1246,11246,College,Yes
+1247,11247,Graduate,Yes
+1248,11248,Graduate,Yes
+1249,11249,College,Yes
+1250,11250,Graduate,Yes
+1251,11251,High School,Yes
+1252,11252,High School,Yes
+1253,11253,Graduate,Yes
+1254,11254,Some College,Yes
+1255,11255,Graduate,Yes
+1256,11256,Some College,No
+1257,11257,Graduate,Yes
+1258,11258,High School,Yes
+1259,11259,Some College,Yes
+1260,11260,High School,Yes
+1261,11261,Graduate,Yes
+1262,11262,College,Yes
+1263,11263,Some College,Yes
+1264,11264,Some College,Yes
+1265,11265,Graduate,Yes
+1266,11266,Graduate,Yes
+1267,11267,Some College,Yes
+1268,11268,College,Yes
+1269,11269,Graduate,Yes
+1270,11270,Graduate,Yes
+1271,11271,Graduate,Yes
+1272,11272,College,Yes
+1273,11273,Some College,Yes
+1274,11274,High School,Yes
+1275,11275,Graduate,Yes
+1276,11276,College,Yes
+1277,11277,Some College,Yes
+1278,11278,Some College,Yes
+1279,11279,College,Yes
+1280,11280,Graduate,Yes
+1281,11281,High School,Yes
+1282,11282,Graduate,Yes
+1283,11283,Some College,Yes
+1284,11284,High School,Yes
+1285,11285,Graduate,No
+1286,11286,High School,Yes
+1287,11287,College,Yes
+1288,11288,Graduate,Yes
+1289,11289,Some College,Yes
+1290,11290,Some College,Yes
+1291,11291,High School,Yes
+1292,11292,College,Yes
+1293,11293,Graduate,Yes
+1294,11294,College,Yes
+1295,11295,College,Yes
+1296,11296,High School,Yes
+1297,11297,High School,No
+1298,11298,Graduate,Yes
+1299,11299,Some College,Yes
+1300,11300,Graduate,Yes
+1301,11301,College,Yes
+1302,11302,High School,Yes
+1303,11303,College,Yes
+1304,11304,High School,Yes
+1305,11305,Some College,Yes
+1306,11306,College,Yes
+1307,11307,High School,Yes
+1308,11308,Graduate,Yes
+1309,11309,Graduate,Yes
+1310,11310,Graduate,Yes
+1311,11311,College,Yes
+1312,11312,High School,Yes
+1313,11313,High School,No
+1314,11314,High School,Yes
+1315,11315,College,Yes
+1316,11316,High School,Yes
+1317,11317,Some College,Yes
+1318,11318,College,Yes
+1319,11319,Some College,Yes
+1320,11320,Some College,Yes
+1321,11321,Graduate,Yes
+1322,11322,College,Yes
+1323,11323,High School,Yes
+1324,11324,Some College,Yes
+1325,11325,College,No
+1326,11326,High School,No
+1327,11327,Graduate,No
+1328,11328,College,Yes
+1329,11329,College,Yes
+1330,11330,College,Yes
+1331,11331,High School,Yes
+1332,11332,Some College,Yes
+1333,11333,Some College,Yes
+1334,11334,College,Yes
+1335,11335,College,Yes
+1336,11336,High School,Yes
+1337,11337,Graduate,Yes
+1338,11338,College,Yes
+1339,11339,College,Yes
+1340,11340,Graduate,Yes
+1341,11341,College,Yes
+1342,11342,Some College,Yes
+1343,11343,College,Yes
+1344,11344,Some College,Yes
+1345,11345,High School,Yes
+1346,11346,High School,No
+1347,11347,Some College,Yes
+1348,11348,Some College,Yes
+1349,11349,Graduate,Yes
+1350,11350,Some College,Yes
+1351,11351,Some College,Yes
+1352,11352,College,Yes
+1353,11353,Graduate,Yes
+1354,11354,Some College,Yes
+1355,11355,Some College,Yes
+1356,11356,Some College,Yes
+1357,11357,College,Yes
+1358,11358,College,Yes
+1359,11359,College,Yes
+1360,11360,High School,Yes
+1361,11361,College,No
+1362,11362,Some College,Yes
+1363,11363,College,Yes
+1364,11364,College,No
+1365,11365,Graduate,Yes
+1366,11366,Some College,Yes
+1367,11367,College,Yes
+1368,11368,High School,Yes
+1369,11369,Graduate,Yes
+1370,11370,College,Yes
+1371,11371,Graduate,Yes
+1372,11372,Graduate,Yes
+1373,11373,High School,Yes
+1374,11374,High School,Yes
+1375,11375,High School,Yes
+1376,11376,Some College,Yes
+1377,11377,Graduate,Yes
+1378,11378,College,No
+1379,11379,High School,Yes
+1380,11380,High School,Yes
+1381,11381,Graduate,Yes
+1382,11382,Graduate,Yes
+1383,11383,Graduate,Yes
+1384,11384,College,Yes
+1385,11385,Some College,Yes
+1386,11386,Some College,No
+1387,11387,High School,Yes
+1388,11388,Some College,Yes
+1389,11389,College,Yes
+1390,11390,Some College,Yes
+1391,11391,College,Yes
+1392,11392,High School,Yes
+1393,11393,Graduate,Yes
+1394,11394,College,Yes
+1395,11395,Graduate,Yes
+1396,11396,High School,Yes
+1397,11397,College,No
+1398,11398,College,Yes
+1399,11399,Some College,No
+1400,11400,College,Yes
+1401,11401,High School,Yes
+1402,11402,Graduate,Yes
+1403,11403,College,Yes
+1404,11404,High School,Yes
+1405,11405,High School,Yes
+1406,11406,College,No
+1407,11407,Some College,Yes
+1408,11408,College,Yes
+1409,11409,College,Yes
+1410,11410,Some College,Yes
+1411,11411,High School,Yes
+1412,11412,College,Yes
+1413,11413,Some College,Yes
+1414,11414,Graduate,Yes
+1415,11415,Graduate,Yes
+1416,11416,Some College,Yes
+1417,11417,High School,Yes
+1418,11418,Some College,Yes
+1419,11419,High School,Yes
+1420,11420,Graduate,Yes
+1421,11421,College,Yes
+1422,11422,Some College,Yes
+1423,11423,Graduate,Yes
+1424,11424,College,Yes
+1425,11425,Graduate,Yes
+1426,11426,Some College,Yes
+1427,11427,Some College,Yes
+1428,11428,College,Yes
+1429,11429,Some College,Yes
+1430,11430,Graduate,Yes
+1431,11431,College,Yes
+1432,11432,College,Yes
+1433,11433,Graduate,Yes
+1434,11434,High School,Yes
+1435,11435,College,Yes
+1436,11436,High School,Yes
+1437,11437,Graduate,Yes
+1438,11438,Graduate,Yes
+1439,11439,College,Yes
+1440,11440,Some College,Yes
+1441,11441,College,Yes
+1442,11442,Some College,Yes
+1443,11443,High School,Yes
+1444,11444,Some College,No
+1445,11445,College,Yes
+1446,11446,Some College,Yes
+1447,11447,Graduate,Yes
+1448,11448,High School,Yes
+1449,11449,Graduate,Yes
+1450,11450,Graduate,Yes
+1451,11451,Graduate,Yes
+1452,11452,Graduate,Yes
+1453,11453,Some College,Yes
+1454,11454,Graduate,Yes
+1455,11455,Some College,Yes
+1456,11456,Graduate,Yes
+1457,11457,College,Yes
+1458,11458,Graduate,Yes
+1459,11459,College,Yes
+1460,11460,Some College,Yes
+1461,11461,High School,Yes
+1462,11462,Some College,Yes
+1463,11463,High School,Yes
+1464,11464,High School,Yes
+1465,11465,Graduate,Yes
+1466,11466,High School,Yes
+1467,11467,Some College,Yes
+1468,11468,Graduate,Yes
+1469,11469,High School,Yes
+1470,11470,Some College,Yes
+1471,11471,High School,Yes
+1472,11472,High School,Yes
+1473,11473,Graduate,Yes
+1474,11474,Graduate,No
+1475,11475,Some College,Yes
+1476,11476,Graduate,Yes
+1477,11477,Graduate,Yes
+1478,11478,College,Yes
+1479,11479,College,Yes
+1480,11480,Some College,Yes
+1481,11481,Graduate,Yes
+1482,11482,Some College,Yes
+1483,11483,College,Yes
+1484,11484,College,Yes
+1485,11485,College,No
+1486,11486,Some College,No
+1487,11487,Graduate,Yes
+1488,11488,High School,Yes
+1489,11489,Graduate,Yes
+1490,11490,Some College,Yes
+1491,11491,College,Yes
+1492,11492,High School,Yes
+1493,11493,Some College,Yes
+1494,11494,College,Yes
+1495,11495,Some College,Yes
+1496,11496,High School,Yes
+1497,11497,College,Yes
+1498,11498,Graduate,Yes
+1499,11499,Some College,Yes
+1500,11500,High School,Yes
+1501,11501,Graduate,Yes
+1502,11502,High School,Yes
+1503,11503,Some College,Yes
+1504,11504,High School,Yes
+1505,11505,College,Yes
+1506,11506,High School,Yes
+1507,11507,Some College,Yes
+1508,11508,College,Yes
+1509,11509,High School,Yes
+1510,11510,High School,Yes
+1511,11511,College,Yes
+1512,11512,Graduate,Yes
+1513,11513,Graduate,Yes
+1514,11514,College,Yes
+1515,11515,High School,Yes
+1516,11516,Graduate,Yes
+1517,11517,College,Yes
+1518,11518,Some College,Yes
+1519,11519,High School,No
+1520,11520,Some College,Yes
+1521,11521,High School,Yes
+1522,11522,Graduate,Yes
+1523,11523,Some College,No
+1524,11524,Some College,Yes
+1525,11525,College,Yes
+1526,11526,Graduate,Yes
+1527,11527,Graduate,Yes
+1528,11528,High School,Yes
+1529,11529,College,Yes
+1530,11530,College,Yes
+1531,11531,High School,Yes
+1532,11532,Some College,No
+1533,11533,High School,Yes
+1534,11534,High School,Yes
+1535,11535,High School,Yes
+1536,11536,College,Yes
+1537,11537,High School,Yes
+1538,11538,High School,Yes
+1539,11539,High School,Yes
+1540,11540,Graduate,Yes
+1541,11541,Some College,Yes
+1542,11542,Some College,No
+1543,11543,Some College,Yes
+1544,11544,Some College,Yes
+1545,11545,College,Yes
+1546,11546,College,Yes
+1547,11547,High School,Yes
+1548,11548,College,Yes
+1549,11549,Some College,Yes
+1550,11550,Graduate,Yes
+1551,11551,High School,Yes
+1552,11552,High School,Yes
+1553,11553,Some College,Yes
+1554,11554,Some College,Yes
+1555,11555,Some College,Yes
+1556,11556,College,Yes
+1557,11557,High School,Yes
+1558,11558,Some College,Yes
+1559,11559,Graduate,Yes
+1560,11560,High School,Yes
+1561,11561,High School,Yes
+1562,11562,College,Yes
+1563,11563,High School,Yes
+1564,11564,Some College,Yes
+1565,11565,Some College,Yes
+1566,11566,Graduate,Yes
+1567,11567,High School,No
+1568,11568,High School,Yes
+1569,11569,College,Yes
+1570,11570,Some College,Yes
+1571,11571,Graduate,Yes
+1572,11572,Some College,Yes
+1573,11573,High School,Yes
+1574,11574,High School,Yes
+1575,11575,Graduate,Yes
+1576,11576,High School,Yes
+1577,11577,Graduate,Yes
+1578,11578,Graduate,Yes
+1579,11579,Some College,No
+1580,11580,Graduate,Yes
+1581,11581,High School,Yes
+1582,11582,College,Yes
+1583,11583,College,Yes
+1584,11584,High School,Yes
+1585,11585,College,Yes
+1586,11586,College,Yes
+1587,11587,Graduate,No
+1588,11588,College,Yes
+1589,11589,College,Yes
+1590,11590,College,Yes
+1591,11591,Some College,Yes
+1592,11592,High School,Yes
+1593,11593,Graduate,Yes
+1594,11594,College,Yes
+1595,11595,High School,Yes
+1596,11596,College,Yes
+1597,11597,Some College,Yes
+1598,11598,Some College,Yes
+1599,11599,College,Yes
+1600,11600,College,Yes
+1601,11601,College,Yes
+1602,11602,Some College,Yes
+1603,11603,Some College,Yes
+1604,11604,High School,Yes
+1605,11605,Graduate,Yes
+1606,11606,Graduate,Yes
+1607,11607,Some College,Yes
+1608,11608,Graduate,Yes
+1609,11609,College,No
+1610,11610,High School,Yes
+1611,11611,Some College,Yes
+1612,11612,Some College,Yes
+1613,11613,Graduate,Yes
+1614,11614,College,Yes
+1615,11615,High School,Yes
+1616,11616,Graduate,Yes
+1617,11617,Some College,Yes
+1618,11618,Some College,Yes
+1619,11619,Graduate,Yes
+1620,11620,College,Yes
+1621,11621,High School,Yes
+1622,11622,High School,Yes
+1623,11623,High School,Yes
+1624,11624,High School,Yes
+1625,11625,College,Yes
+1626,11626,Some College,Yes
+1627,11627,Some College,Yes
+1628,11628,High School,No
+1629,11629,High School,Yes
+1630,11630,High School,Yes
+1631,11631,Graduate,Yes
+1632,11632,Graduate,Yes
+1633,11633,Some College,Yes
+1634,11634,Some College,Yes
+1635,11635,High School,Yes
+1636,11636,Graduate,Yes
+1637,11637,College,Yes
+1638,11638,Graduate,Yes
+1639,11639,Some College,Yes
+1640,11640,Graduate,Yes
+1641,11641,Some College,Yes
+1642,11642,High School,Yes
+1643,11643,College,Yes
+1644,11644,High School,Yes
+1645,11645,High School,Yes
+1646,11646,College,Yes
+1647,11647,College,Yes
+1648,11648,College,Yes
+1649,11649,Some College,Yes
+1650,11650,High School,Yes
+1651,11651,Some College,Yes
+1652,11652,College,Yes
+1653,11653,Some College,Yes
+1654,11654,College,Yes
+1655,11655,Graduate,Yes
+1656,11656,College,Yes
+1657,11657,High School,Yes
+1658,11658,High School,Yes
+1659,11659,High School,Yes
+1660,11660,Some College,Yes
+1661,11661,High School,Yes
+1662,11662,College,Yes
+1663,11663,Graduate,Yes
+1664,11664,High School,Yes
+1665,11665,Some College,Yes
+1666,11666,Graduate,No
+1667,11667,High School,No
+1668,11668,High School,Yes
+1669,11669,Graduate,Yes
+1670,11670,High School,Yes
+1671,11671,Some College,No
+1672,11672,College,Yes
+1673,11673,College,Yes
+1674,11674,Graduate,Yes
+1675,11675,College,Yes
+1676,11676,High School,Yes
+1677,11677,High School,Yes
+1678,11678,Some College,Yes
+1679,11679,College,Yes
+1680,11680,Graduate,Yes
+1681,11681,High School,Yes
+1682,11682,Graduate,Yes
+1683,11683,High School,Yes
+1684,11684,High School,Yes
+1685,11685,Some College,Yes
+1686,11686,College,Yes
+1687,11687,Some College,Yes
+1688,11688,College,Yes
+1689,11689,Graduate,Yes
+1690,11690,College,Yes
+1691,11691,Graduate,Yes
+1692,11692,High School,Yes
+1693,11693,Graduate,Yes
+1694,11694,Graduate,Yes
+1695,11695,High School,Yes
+1696,11696,Graduate,Yes
+1697,11697,Graduate,Yes
+1698,11698,High School,Yes
+1699,11699,High School,Yes
+1700,11700,High School,Yes
+1701,11701,College,Yes
+1702,11702,High School,Yes
+1703,11703,High School,Yes
+1704,11704,Graduate,Yes
+1705,11705,Some College,Yes
+1706,11706,Some College,Yes
+1707,11707,College,Yes
+1708,11708,College,Yes
+1709,11709,Some College,Yes
+1710,11710,Some College,Yes
+1711,11711,High School,Yes
+1712,11712,Graduate,Yes
+1713,11713,High School,Yes
+1714,11714,College,Yes
+1715,11715,Some College,Yes
+1716,11716,College,Yes
+1717,11717,High School,Yes
+1718,11718,College,Yes
+1719,11719,College,Yes
+1720,11720,Graduate,Yes
+1721,11721,College,Yes
+1722,11722,High School,Yes
+1723,11723,Graduate,Yes
+1724,11724,College,Yes
+1725,11725,High School,Yes
+1726,11726,Some College,Yes
+1727,11727,Graduate,Yes
+1728,11728,College,No
+1729,11729,College,Yes
+1730,11730,Graduate,Yes
+1731,11731,High School,Yes
+1732,11732,College,Yes
+1733,11733,High School,Yes
+1734,11734,Graduate,Yes
+1735,11735,College,Yes
+1736,11736,Some College,Yes
+1737,11737,Some College,Yes
+1738,11738,Some College,No
+1739,11739,Graduate,Yes
+1740,11740,College,Yes
+1741,11741,Graduate,Yes
+1742,11742,College,No
+1743,11743,Some College,Yes
+1744,11744,Some College,Yes
+1745,11745,High School,No
+1746,11746,Graduate,Yes
+1747,11747,Graduate,Yes
+1748,11748,High School,Yes
+1749,11749,Some College,No
+1750,11750,Some College,Yes
+1751,11751,Graduate,Yes
+1752,11752,College,Yes
+1753,11753,Some College,Yes
+1754,11754,High School,Yes
+1755,11755,High School,Yes
+1756,11756,High School,Yes
+1757,11757,Graduate,Yes
+1758,11758,Graduate,Yes
+1759,11759,Graduate,Yes
+1760,11760,Graduate,Yes
+1761,11761,High School,Yes
+1762,11762,High School,Yes
+1763,11763,Graduate,Yes
+1764,11764,Graduate,Yes
+1765,11765,High School,Yes
+1766,11766,Graduate,Yes
+1767,11767,Graduate,Yes
+1768,11768,Graduate,Yes
+1769,11769,Graduate,Yes
+1770,11770,Some College,Yes
+1771,11771,Graduate,No
+1772,11772,High School,Yes
+1773,11773,High School,Yes
+1774,11774,High School,Yes
+1775,11775,High School,Yes
+1776,11776,Graduate,Yes
+1777,11777,Some College,Yes
+1778,11778,College,Yes
+1779,11779,College,Yes
+1780,11780,College,Yes
+1781,11781,College,Yes
+1782,11782,High School,Yes
+1783,11783,Graduate,Yes
+1784,11784,Graduate,Yes
+1785,11785,College,Yes
+1786,11786,College,Yes
+1787,11787,Some College,No
+1788,11788,Some College,Yes
+1789,11789,Some College,Yes
+1790,11790,High School,Yes
+1791,11791,Graduate,Yes
+1792,11792,High School,Yes
+1793,11793,High School,Yes
+1794,11794,Graduate,Yes
+1795,11795,Some College,Yes
+1796,11796,Graduate,Yes
+1797,11797,College,Yes
+1798,11798,Some College,Yes
+1799,11799,Graduate,Yes
+1800,11800,High School,Yes
+1801,11801,Graduate,Yes
+1802,11802,Some College,Yes
+1803,11803,College,Yes
+1804,11804,High School,Yes
+1805,11805,College,Yes
+1806,11806,College,Yes
+1807,11807,High School,Yes
+1808,11808,Graduate,Yes
+1809,11809,Graduate,Yes
+1810,11810,College,Yes
+1811,11811,Graduate,Yes
+1812,11812,Some College,Yes
+1813,11813,College,Yes
+1814,11814,College,Yes
+1815,11815,College,Yes
+1816,11816,Some College,Yes
+1817,11817,College,Yes
+1818,11818,Graduate,No
+1819,11819,Graduate,No
+1820,11820,Graduate,No
+1821,11821,Graduate,Yes
+1822,11822,College,Yes
+1823,11823,Some College,Yes
+1824,11824,High School,Yes
+1825,11825,Graduate,Yes
+1826,11826,High School,Yes
+1827,11827,High School,Yes
+1828,11828,College,Yes
+1829,11829,Graduate,Yes
+1830,11830,Graduate,Yes
+1831,11831,Graduate,Yes
+1832,11832,High School,Yes
+1833,11833,Graduate,Yes
+1834,11834,Graduate,Yes
+1835,11835,Some College,Yes
+1836,11836,College,Yes
+1837,11837,Graduate,No
+1838,11838,Graduate,Yes
+1839,11839,College,Yes
+1840,11840,College,No
+1841,11841,High School,Yes
+1842,11842,High School,Yes
+1843,11843,High School,Yes
+1844,11844,College,Yes
+1845,11845,Some College,Yes
+1846,11846,Graduate,Yes
+1847,11847,College,Yes
+1848,11848,Some College,Yes
+1849,11849,College,Yes
+1850,11850,Some College,Yes
+1851,11851,College,Yes
+1852,11852,College,No
+1853,11853,Some College,Yes
+1854,11854,Some College,Yes
+1855,11855,Some College,Yes
+1856,11856,Some College,Yes
+1857,11857,Some College,Yes
+1858,11858,Some College,Yes
+1859,11859,Some College,Yes
+1860,11860,Some College,Yes
+1861,11861,College,Yes
+1862,11862,Some College,Yes
+1863,11863,Some College,Yes
+1864,11864,College,Yes
+1865,11865,College,Yes
+1866,11866,High School,Yes
+1867,11867,High School,Yes
+1868,11868,Some College,Yes
+1869,11869,Some College,Yes
+1870,11870,High School,Yes
+1871,11871,High School,Yes
+1872,11872,Graduate,Yes
+1873,11873,Graduate,Yes
+1874,11874,Some College,Yes
+1875,11875,Graduate,Yes
+1876,11876,High School,No
+1877,11877,Some College,No
+1878,11878,College,Yes
+1879,11879,College,No
+1880,11880,High School,Yes
+1881,11881,Graduate,Yes
+1882,11882,College,Yes
+1883,11883,Graduate,Yes
+1884,11884,College,Yes
+1885,11885,Graduate,Yes
+1886,11886,College,No
+1887,11887,College,Yes
+1888,11888,Some College,Yes
+1889,11889,Some College,Yes
+1890,11890,High School,Yes
+1891,11891,College,Yes
+1892,11892,Graduate,Yes
+1893,11893,College,Yes
+1894,11894,Graduate,Yes
+1895,11895,Graduate,Yes
+1896,11896,College,Yes
+1897,11897,Graduate,No
+1898,11898,High School,Yes
+1899,11899,Some College,Yes
+1900,11900,Graduate,Yes
+1901,11901,College,Yes
+1902,11902,Some College,Yes
+1903,11903,High School,Yes
+1904,11904,Graduate,No
+1905,11905,Graduate,Yes
+1906,11906,Some College,Yes
+1907,11907,Graduate,No
+1908,11908,College,Yes
+1909,11909,Some College,Yes
+1910,11910,Some College,Yes
+1911,11911,Graduate,Yes
+1912,11912,High School,Yes
+1913,11913,High School,Yes
+1914,11914,High School,Yes
+1915,11915,High School,Yes
+1916,11916,Some College,Yes
+1917,11917,Some College,Yes
+1918,11918,Graduate,Yes
+1919,11919,High School,Yes
+1920,11920,High School,Yes
+1921,11921,Graduate,Yes
+1922,11922,Graduate,Yes
+1923,11923,Graduate,Yes
+1924,11924,College,Yes
+1925,11925,Graduate,No
+1926,11926,Graduate,Yes
+1927,11927,College,Yes
+1928,11928,High School,No
+1929,11929,Some College,Yes
+1930,11930,High School,Yes
+1931,11931,Some College,Yes
+1932,11932,Some College,Yes
+1933,11933,Graduate,Yes
+1934,11934,Graduate,Yes
+1935,11935,College,Yes
+1936,11936,High School,Yes
+1937,11937,High School,Yes
+1938,11938,Some College,Yes
+1939,11939,Graduate,Yes
+1940,11940,Graduate,Yes
+1941,11941,High School,Yes
+1942,11942,College,Yes
+1943,11943,Graduate,Yes
+1944,11944,College,Yes
+1945,11945,High School,Yes
+1946,11946,High School,Yes
+1947,11947,College,Yes
+1948,11948,Graduate,Yes
+1949,11949,High School,Yes
+1950,11950,Some College,Yes
+1951,11951,High School,Yes
+1952,11952,Graduate,Yes
+1953,11953,Some College,Yes
+1954,11954,High School,No
+1955,11955,Graduate,Yes
+1956,11956,Graduate,Yes
+1957,11957,High School,Yes
+1958,11958,Graduate,Yes
+1959,11959,College,Yes
+1960,11960,Some College,Yes
+1961,11961,College,Yes
+1962,11962,High School,Yes
+1963,11963,College,Yes
+1964,11964,High School,Yes
+1965,11965,High School,Yes
+1966,11966,Graduate,Yes
+1967,11967,Graduate,Yes
+1968,11968,High School,Yes
+1969,11969,Some College,Yes
+1970,11970,Some College,Yes
+1971,11971,Some College,Yes
+1972,11972,College,Yes
+1973,11973,High School,Yes
+1974,11974,Graduate,Yes
+1975,11975,College,Yes
+1976,11976,College,Yes
+1977,11977,Graduate,Yes
+1978,11978,High School,Yes
+1979,11979,College,Yes
+1980,11980,High School,Yes
+1981,11981,High School,No
+1982,11982,High School,Yes
+1983,11983,Graduate,Yes
+1984,11984,High School,Yes
+1985,11985,College,Yes
+1986,11986,Graduate,Yes
+1987,11987,Graduate,Yes
+1988,11988,College,Yes
+1989,11989,Graduate,Yes
+1990,11990,College,Yes
+1991,11991,Some College,No
+1992,11992,College,Yes
+1993,11993,Graduate,Yes
+1994,11994,College,Yes
+1995,11995,Some College,Yes
+1996,11996,High School,Yes
+1997,11997,High School,Yes
+1998,11998,High School,Yes
+1999,11999,Graduate,Yes
+2000,12000,Some College,Yes
+2001,12001,College,No
+2002,12002,College,Yes
+2003,12003,College,Yes
+2004,12004,College,Yes
+2005,12005,Graduate,Yes
+2006,12006,Graduate,Yes
+2007,12007,Some College,Yes
+2008,12008,College,Yes
+2009,12009,High School,Yes
+2010,12010,Graduate,Yes
+2011,12011,Some College,Yes
+2012,12012,Some College,Yes
+2013,12013,Graduate,Yes
+2014,12014,High School,Yes
+2015,12015,High School,Yes
+2016,12016,College,Yes
+2017,12017,Graduate,Yes
+2018,12018,High School,Yes
+2019,12019,Graduate,Yes
+2020,12020,Some College,Yes
+2021,12021,Some College,No
+2022,12022,Some College,Yes
+2023,12023,Graduate,Yes
+2024,12024,College,Yes
+2025,12025,College,Yes
+2026,12026,High School,Yes
+2027,12027,Graduate,Yes
+2028,12028,College,No
+2029,12029,Graduate,Yes
+2030,12030,College,Yes
+2031,12031,Some College,Yes
+2032,12032,Some College,Yes
+2033,12033,High School,Yes
+2034,12034,Some College,Yes
+2035,12035,College,Yes
+2036,12036,High School,Yes
+2037,12037,High School,Yes
+2038,12038,Some College,Yes
+2039,12039,Graduate,Yes
+2040,12040,Some College,Yes
+2041,12041,Some College,Yes
+2042,12042,High School,Yes
+2043,12043,Some College,Yes
+2044,12044,College,Yes
+2045,12045,High School,Yes
+2046,12046,Some College,Yes
+2047,12047,Graduate,Yes
+2048,12048,College,Yes
+2049,12049,Graduate,No
+2050,12050,College,Yes
+2051,12051,Graduate,Yes
+2052,12052,Some College,Yes
+2053,12053,College,Yes
+2054,12054,High School,Yes
+2055,12055,High School,Yes
+2056,12056,Graduate,Yes
+2057,12057,Graduate,Yes
+2058,12058,Graduate,Yes
+2059,12059,College,Yes
+2060,12060,High School,Yes
+2061,12061,Some College,Yes
+2062,12062,College,Yes
+2063,12063,Graduate,Yes
+2064,12064,High School,Yes
+2065,12065,Graduate,Yes
+2066,12066,Some College,Yes
+2067,12067,Some College,Yes
+2068,12068,High School,Yes
+2069,12069,College,Yes
+2070,12070,Some College,Yes
+2071,12071,Some College,Yes
+2072,12072,Some College,Yes
+2073,12073,Some College,Yes
+2074,12074,Graduate,Yes
+2075,12075,Graduate,No
+2076,12076,College,Yes
+2077,12077,High School,Yes
+2078,12078,High School,Yes
+2079,12079,High School,Yes
+2080,12080,Some College,Yes
+2081,12081,Graduate,Yes
+2082,12082,Graduate,Yes
+2083,12083,College,Yes
+2084,12084,High School,Yes
+2085,12085,Graduate,Yes
+2086,12086,College,Yes
+2087,12087,High School,Yes
+2088,12088,Some College,Yes
+2089,12089,Graduate,Yes
+2090,12090,Graduate,Yes
+2091,12091,High School,Yes
+2092,12092,Some College,Yes
+2093,12093,Some College,Yes
+2094,12094,Graduate,Yes
+2095,12095,High School,Yes
+2096,12096,College,Yes
+2097,12097,Graduate,No
+2098,12098,Some College,Yes
+2099,12099,College,Yes
+2100,12100,High School,No
+2101,12101,Some College,Yes
+2102,12102,College,Yes
+2103,12103,Graduate,Yes
+2104,12104,Some College,Yes
+2105,12105,High School,Yes
+2106,12106,Some College,Yes
+2107,12107,Graduate,Yes
+2108,12108,High School,Yes
+2109,12109,Graduate,Yes
+2110,12110,College,Yes
+2111,12111,Some College,Yes
+2112,12112,Graduate,Yes
+2113,12113,College,Yes
+2114,12114,High School,Yes
+2115,12115,High School,Yes
+2116,12116,College,Yes
+2117,12117,College,Yes
+2118,12118,High School,No
+2119,12119,Graduate,Yes
+2120,12120,College,Yes
+2121,12121,Graduate,Yes
+2122,12122,High School,Yes
+2123,12123,Graduate,Yes
+2124,12124,Graduate,Yes
+2125,12125,College,Yes
+2126,12126,Graduate,Yes
+2127,12127,Graduate,Yes
+2128,12128,Graduate,Yes
+2129,12129,High School,Yes
+2130,12130,High School,Yes
+2131,12131,Some College,Yes
+2132,12132,High School,Yes
+2133,12133,High School,Yes
+2134,12134,Some College,Yes
+2135,12135,Some College,Yes
+2136,12136,College,Yes
+2137,12137,College,Yes
+2138,12138,High School,Yes
+2139,12139,Graduate,Yes
+2140,12140,College,Yes
+2141,12141,College,Yes
+2142,12142,High School,Yes
+2143,12143,Graduate,Yes
+2144,12144,Some College,Yes
+2145,12145,Some College,Yes
+2146,12146,High School,Yes
+2147,12147,High School,Yes
+2148,12148,Graduate,Yes
+2149,12149,High School,Yes
+2150,12150,High School,Yes
+2151,12151,High School,Yes
+2152,12152,Graduate,Yes
+2153,12153,High School,Yes
+2154,12154,College,Yes
+2155,12155,Graduate,No
+2156,12156,College,Yes
+2157,12157,Graduate,Yes
+2158,12158,College,Yes
+2159,12159,Graduate,Yes
+2160,12160,Some College,Yes
+2161,12161,High School,Yes
+2162,12162,High School,Yes
+2163,12163,Graduate,Yes
+2164,12164,College,Yes
+2165,12165,Some College,Yes
+2166,12166,College,Yes
+2167,12167,High School,Yes
+2168,12168,High School,Yes
+2169,12169,College,Yes
+2170,12170,Graduate,Yes
+2171,12171,Graduate,Yes
+2172,12172,College,Yes
+2173,12173,High School,Yes
+2174,12174,College,Yes
+2175,12175,High School,Yes
+2176,12176,College,Yes
+2177,12177,Graduate,No
+2178,12178,Some College,Yes
+2179,12179,High School,Yes
+2180,12180,Some College,Yes
+2181,12181,Graduate,Yes
+2182,12182,College,Yes
+2183,12183,Graduate,Yes
+2184,12184,Some College,Yes
+2185,12185,Graduate,Yes
+2186,12186,Graduate,Yes
+2187,12187,College,Yes
+2188,12188,Some College,Yes
+2189,12189,Some College,Yes
+2190,12190,Some College,Yes
+2191,12191,High School,Yes
+2192,12192,Graduate,Yes
+2193,12193,Some College,Yes
+2194,12194,Graduate,Yes
+2195,12195,College,Yes
+2196,12196,College,Yes
+2197,12197,High School,Yes
+2198,12198,High School,No
+2199,12199,College,Yes
+2200,12200,Some College,Yes
+2201,12201,College,Yes
+2202,12202,Graduate,Yes
+2203,12203,High School,Yes
+2204,12204,High School,Yes
+2205,12205,College,Yes
+2206,12206,Some College,Yes
+2207,12207,Some College,Yes
+2208,12208,Graduate,Yes
+2209,12209,High School,Yes
+2210,12210,College,Yes
+2211,12211,College,Yes
+2212,12212,High School,Yes
+2213,12213,College,Yes
+2214,12214,High School,Yes
+2215,12215,Some College,No
+2216,12216,Some College,Yes
+2217,12217,College,Yes
+2218,12218,Some College,Yes
+2219,12219,Some College,Yes
+2220,12220,Graduate,Yes
+2221,12221,High School,Yes
+2222,12222,High School,Yes
+2223,12223,College,Yes
+2224,12224,High School,Yes
+2225,12225,Graduate,Yes
+2226,12226,College,Yes
+2227,12227,College,Yes
+2228,12228,High School,Yes
+2229,12229,Some College,No
+2230,12230,Some College,Yes
+2231,12231,Some College,Yes
+2232,12232,Some College,Yes
+2233,12233,Graduate,Yes
+2234,12234,College,Yes
+2235,12235,Some College,Yes
+2236,12236,Graduate,Yes
+2237,12237,College,Yes
+2238,12238,High School,Yes
+2239,12239,High School,Yes
+2240,12240,Graduate,Yes
+2241,12241,College,Yes
+2242,12242,Some College,No
+2243,12243,College,Yes
+2244,12244,Some College,Yes
+2245,12245,Graduate,Yes
+2246,12246,Some College,Yes
+2247,12247,Graduate,Yes
+2248,12248,College,Yes
+2249,12249,College,Yes
+2250,12250,Some College,Yes
+2251,12251,College,Yes
+2252,12252,Some College,Yes
+2253,12253,College,Yes
+2254,12254,High School,No
+2255,12255,Some College,Yes
+2256,12256,Graduate,Yes
+2257,12257,High School,Yes
+2258,12258,Graduate,Yes
+2259,12259,College,Yes
+2260,12260,High School,Yes
+2261,12261,College,Yes
+2262,12262,Some College,Yes
+2263,12263,Graduate,Yes
+2264,12264,College,Yes
+2265,12265,Graduate,Yes
+2266,12266,Graduate,Yes
+2267,12267,College,Yes
+2268,12268,Some College,Yes
+2269,12269,Graduate,Yes
+2270,12270,College,Yes
+2271,12271,Some College,Yes
+2272,12272,College,Yes
+2273,12273,Some College,Yes
+2274,12274,Graduate,Yes
+2275,12275,High School,Yes
+2276,12276,College,Yes
+2277,12277,Graduate,Yes
+2278,12278,College,Yes
+2279,12279,College,Yes
+2280,12280,Some College,Yes
+2281,12281,College,Yes
+2282,12282,Some College,Yes
+2283,12283,Graduate,No
+2284,12284,College,Yes
+2285,12285,Graduate,Yes
+2286,12286,High School,Yes
+2287,12287,Graduate,Yes
+2288,12288,College,Yes
+2289,12289,High School,Yes
+2290,12290,Some College,Yes
+2291,12291,High School,Yes
+2292,12292,College,Yes
+2293,12293,College,Yes
+2294,12294,Graduate,Yes
+2295,12295,Some College,Yes
+2296,12296,College,Yes
+2297,12297,College,Yes
+2298,12298,Some College,Yes
+2299,12299,Some College,Yes
+2300,12300,Graduate,Yes
+2301,12301,High School,Yes
+2302,12302,Some College,Yes
+2303,12303,College,Yes
+2304,12304,Some College,Yes
+2305,12305,College,Yes
+2306,12306,Graduate,Yes
+2307,12307,High School,Yes
+2308,12308,Graduate,No
+2309,12309,Some College,Yes
+2310,12310,College,Yes
+2311,12311,Some College,Yes
+2312,12312,Some College,Yes
+2313,12313,Some College,Yes
+2314,12314,Some College,Yes
+2315,12315,High School,Yes
+2316,12316,College,Yes
+2317,12317,Some College,Yes
+2318,12318,College,Yes
+2319,12319,High School,Yes
+2320,12320,College,Yes
+2321,12321,College,No
+2322,12322,High School,Yes
+2323,12323,Some College,Yes
+2324,12324,College,Yes
+2325,12325,Graduate,Yes
+2326,12326,College,Yes
+2327,12327,Some College,Yes
+2328,12328,Graduate,Yes
+2329,12329,Some College,No
+2330,12330,College,Yes
+2331,12331,High School,Yes
+2332,12332,Some College,Yes
+2333,12333,Some College,Yes
+2334,12334,High School,Yes
+2335,12335,College,Yes
+2336,12336,Some College,Yes
+2337,12337,College,Yes
+2338,12338,College,Yes
+2339,12339,College,Yes
+2340,12340,High School,Yes
+2341,12341,College,Yes
+2342,12342,College,Yes
+2343,12343,Graduate,Yes
+2344,12344,Graduate,Yes
+2345,12345,Graduate,Yes
+2346,12346,Some College,Yes
+2347,12347,Some College,Yes
+2348,12348,Graduate,Yes
+2349,12349,High School,Yes
+2350,12350,High School,Yes
+2351,12351,Graduate,Yes
+2352,12352,Some College,Yes
+2353,12353,Some College,Yes
+2354,12354,High School,Yes
+2355,12355,College,Yes
+2356,12356,High School,Yes
+2357,12357,College,Yes
+2358,12358,Some College,Yes
+2359,12359,Some College,Yes
+2360,12360,Graduate,Yes
+2361,12361,Some College,Yes
+2362,12362,College,Yes
+2363,12363,High School,Yes
+2364,12364,Graduate,Yes
+2365,12365,College,Yes
+2366,12366,High School,Yes
+2367,12367,High School,Yes
+2368,12368,High School,Yes
+2369,12369,Some College,Yes
+2370,12370,High School,Yes
+2371,12371,Some College,No
+2372,12372,High School,Yes
+2373,12373,High School,Yes
+2374,12374,Some College,Yes
+2375,12375,Some College,Yes
+2376,12376,College,No
+2377,12377,High School,Yes
+2378,12378,Some College,Yes
+2379,12379,College,Yes
+2380,12380,College,Yes
+2381,12381,Some College,Yes
+2382,12382,High School,Yes
+2383,12383,College,Yes
+2384,12384,High School,Yes
+2385,12385,High School,Yes
+2386,12386,College,No
+2387,12387,Some College,Yes
+2388,12388,High School,Yes
+2389,12389,Graduate,Yes
+2390,12390,Some College,Yes
+2391,12391,College,Yes
+2392,12392,Graduate,Yes
+2393,12393,High School,Yes
+2394,12394,Some College,Yes
+2395,12395,Graduate,Yes
+2396,12396,Some College,Yes
+2397,12397,High School,Yes
+2398,12398,Some College,Yes
+2399,12399,Graduate,Yes
+2400,12400,Some College,Yes
+2401,12401,College,Yes
+2402,12402,College,Yes
+2403,12403,Graduate,Yes
+2404,12404,Some College,Yes
+2405,12405,Graduate,Yes
+2406,12406,Some College,Yes
+2407,12407,High School,Yes
+2408,12408,College,Yes
+2409,12409,High School,Yes
+2410,12410,Some College,Yes
+2411,12411,High School,Yes
+2412,12412,Graduate,Yes
+2413,12413,Graduate,Yes
+2414,12414,Some College,No
+2415,12415,College,Yes
+2416,12416,Graduate,Yes
+2417,12417,College,Yes
+2418,12418,Some College,Yes
+2419,12419,College,Yes
+2420,12420,Some College,Yes
+2421,12421,High School,Yes
+2422,12422,Some College,Yes
+2423,12423,High School,Yes
+2424,12424,Some College,Yes
+2425,12425,Graduate,Yes
+2426,12426,Graduate,Yes
+2427,12427,College,Yes
+2428,12428,Some College,Yes
+2429,12429,Some College,Yes
+2430,12430,Some College,Yes
+2431,12431,College,Yes
+2432,12432,Graduate,Yes
+2433,12433,Some College,Yes
+2434,12434,College,Yes
+2435,12435,Some College,No
+2436,12436,High School,Yes
+2437,12437,Some College,Yes
+2438,12438,High School,No
+2439,12439,College,Yes
+2440,12440,College,Yes
+2441,12441,Graduate,Yes
+2442,12442,Some College,Yes
+2443,12443,College,Yes
+2444,12444,Graduate,Yes
+2445,12445,Some College,Yes
+2446,12446,College,Yes
+2447,12447,High School,Yes
+2448,12448,College,Yes
+2449,12449,High School,Yes
+2450,12450,Graduate,Yes
+2451,12451,Graduate,Yes
+2452,12452,Some College,Yes
+2453,12453,Some College,Yes
+2454,12454,Some College,Yes
+2455,12455,Graduate,Yes
+2456,12456,High School,Yes
+2457,12457,Some College,Yes
+2458,12458,Some College,No
+2459,12459,Graduate,Yes
+2460,12460,High School,Yes
+2461,12461,College,Yes
+2462,12462,Some College,Yes
+2463,12463,College,Yes
+2464,12464,College,No
+2465,12465,Some College,Yes
+2466,12466,Graduate,Yes
+2467,12467,Some College,Yes
+2468,12468,High School,Yes
+2469,12469,High School,Yes
+2470,12470,Some College,Yes
+2471,12471,College,Yes
+2472,12472,High School,Yes
+2473,12473,High School,Yes
+2474,12474,Some College,Yes
+2475,12475,Some College,Yes
+2476,12476,Graduate,Yes
+2477,12477,Some College,Yes
+2478,12478,Some College,Yes
+2479,12479,High School,Yes
+2480,12480,High School,Yes
+2481,12481,High School,Yes
+2482,12482,College,Yes
+2483,12483,High School,Yes
+2484,12484,High School,Yes
+2485,12485,Some College,Yes
+2486,12486,Graduate,No
+2487,12487,High School,Yes
+2488,12488,Graduate,Yes
+2489,12489,High School,Yes
+2490,12490,High School,Yes
+2491,12491,Graduate,Yes
+2492,12492,Some College,Yes
+2493,12493,High School,Yes
+2494,12494,Graduate,Yes
+2495,12495,High School,Yes
+2496,12496,College,Yes
+2497,12497,College,Yes
+2498,12498,College,Yes
+2499,12499,College,Yes
+2500,12500,Some College,Yes
+2501,12501,College,Yes
+2502,12502,Graduate,Yes
+2503,12503,High School,No
+2504,12504,Graduate,Yes
+2505,12505,College,Yes
+2506,12506,Some College,Yes
+2507,12507,College,No
+2508,12508,College,Yes
+2509,12509,Some College,Yes
+2510,12510,Some College,Yes
+2511,12511,Some College,Yes
+2512,12512,Some College,Yes
+2513,12513,Some College,Yes
+2514,12514,Some College,Yes
+2515,12515,High School,Yes
+2516,12516,College,Yes
+2517,12517,College,Yes
+2518,12518,Some College,No
+2519,12519,Graduate,Yes
+2520,12520,Some College,Yes
+2521,12521,High School,Yes
+2522,12522,Graduate,Yes
+2523,12523,High School,Yes
+2524,12524,Graduate,Yes
+2525,12525,Graduate,Yes
+2526,12526,Some College,Yes
+2527,12527,High School,Yes
+2528,12528,Graduate,Yes
+2529,12529,High School,Yes
+2530,12530,Some College,Yes
+2531,12531,Some College,Yes
+2532,12532,Some College,Yes
+2533,12533,Some College,Yes
+2534,12534,College,Yes
+2535,12535,Graduate,Yes
+2536,12536,College,Yes
+2537,12537,Some College,Yes
+2538,12538,Graduate,Yes
+2539,12539,Graduate,Yes
+2540,12540,High School,Yes
+2541,12541,Some College,Yes
+2542,12542,College,Yes
+2543,12543,High School,Yes
+2544,12544,Graduate,Yes
+2545,12545,College,Yes
+2546,12546,Some College,Yes
+2547,12547,College,No
+2548,12548,College,Yes
+2549,12549,College,Yes
+2550,12550,High School,Yes
+2551,12551,Graduate,Yes
+2552,12552,College,Yes
+2553,12553,Graduate,Yes
+2554,12554,High School,Yes
+2555,12555,Some College,Yes
+2556,12556,Some College,Yes
+2557,12557,College,Yes
+2558,12558,High School,Yes
+2559,12559,Some College,Yes
+2560,12560,High School,Yes
+2561,12561,High School,Yes
+2562,12562,College,Yes
+2563,12563,College,Yes
+2564,12564,High School,Yes
+2565,12565,High School,Yes
+2566,12566,College,Yes
+2567,12567,High School,Yes
+2568,12568,College,Yes
+2569,12569,Graduate,No
+2570,12570,High School,Yes
+2571,12571,College,Yes
+2572,12572,High School,Yes
+2573,12573,College,Yes
+2574,12574,High School,Yes
+2575,12575,Some College,Yes
+2576,12576,Some College,Yes
+2577,12577,High School,Yes
+2578,12578,Some College,Yes
+2579,12579,High School,Yes
+2580,12580,High School,Yes
+2581,12581,Graduate,Yes
+2582,12582,Graduate,Yes
+2583,12583,Some College,No
+2584,12584,Graduate,Yes
+2585,12585,Graduate,Yes
+2586,12586,High School,Yes
+2587,12587,College,Yes
+2588,12588,High School,Yes
+2589,12589,Graduate,No
+2590,12590,High School,Yes
+2591,12591,Some College,No
+2592,12592,College,Yes
+2593,12593,Graduate,Yes
+2594,12594,Graduate,Yes
+2595,12595,High School,Yes
+2596,12596,High School,Yes
+2597,12597,High School,Yes
+2598,12598,High School,Yes
+2599,12599,Graduate,Yes
+2600,12600,High School,Yes
+2601,12601,Graduate,No
+2602,12602,High School,Yes
+2603,12603,College,Yes
+2604,12604,College,Yes
+2605,12605,High School,Yes
+2606,12606,High School,Yes
+2607,12607,Some College,Yes
+2608,12608,College,Yes
+2609,12609,Graduate,Yes
+2610,12610,College,No
+2611,12611,Graduate,Yes
+2612,12612,High School,Yes
+2613,12613,College,No
+2614,12614,College,Yes
+2615,12615,Some College,No
+2616,12616,Some College,No
+2617,12617,College,Yes
+2618,12618,College,Yes
+2619,12619,College,Yes
+2620,12620,Graduate,Yes
+2621,12621,High School,Yes
+2622,12622,Some College,Yes
+2623,12623,High School,Yes
+2624,12624,Some College,Yes
+2625,12625,Some College,Yes
+2626,12626,Some College,Yes
+2627,12627,College,Yes
+2628,12628,Some College,Yes
+2629,12629,High School,Yes
+2630,12630,Some College,Yes
+2631,12631,High School,Yes
+2632,12632,Some College,Yes
+2633,12633,Some College,Yes
+2634,12634,College,Yes
+2635,12635,High School,Yes
+2636,12636,Some College,Yes
+2637,12637,Some College,Yes
+2638,12638,High School,Yes
+2639,12639,Some College,Yes
+2640,12640,Graduate,Yes
+2641,12641,College,Yes
+2642,12642,High School,Yes
+2643,12643,College,No
+2644,12644,Graduate,Yes
+2645,12645,Graduate,Yes
+2646,12646,Graduate,Yes
+2647,12647,High School,Yes
+2648,12648,Graduate,Yes
+2649,12649,High School,Yes
+2650,12650,High School,Yes
+2651,12651,Some College,Yes
+2652,12652,High School,Yes
+2653,12653,Graduate,Yes
+2654,12654,High School,No
+2655,12655,High School,Yes
+2656,12656,College,Yes
+2657,12657,Graduate,Yes
+2658,12658,High School,Yes
+2659,12659,Some College,Yes
+2660,12660,High School,Yes
+2661,12661,High School,Yes
+2662,12662,College,Yes
+2663,12663,Graduate,Yes
+2664,12664,Graduate,Yes
+2665,12665,Some College,Yes
+2666,12666,Some College,Yes
+2667,12667,Some College,Yes
+2668,12668,High School,Yes
+2669,12669,High School,No
+2670,12670,Some College,Yes
+2671,12671,Graduate,Yes
+2672,12672,Graduate,Yes
+2673,12673,Some College,Yes
+2674,12674,College,Yes
+2675,12675,Graduate,Yes
+2676,12676,Graduate,Yes
+2677,12677,Some College,Yes
+2678,12678,Graduate,Yes
+2679,12679,High School,Yes
+2680,12680,High School,No
+2681,12681,Graduate,Yes
+2682,12682,High School,Yes
+2683,12683,College,Yes
+2684,12684,Graduate,Yes
+2685,12685,Some College,Yes
+2686,12686,High School,No
+2687,12687,College,Yes
+2688,12688,College,Yes
+2689,12689,High School,Yes
+2690,12690,College,Yes
+2691,12691,Graduate,Yes
+2692,12692,College,No
+2693,12693,High School,Yes
+2694,12694,College,Yes
+2695,12695,High School,Yes
+2696,12696,High School,Yes
+2697,12697,College,Yes
+2698,12698,High School,Yes
+2699,12699,High School,Yes
+2700,12700,Some College,Yes
+2701,12701,Graduate,Yes
+2702,12702,High School,Yes
+2703,12703,Graduate,Yes
+2704,12704,Some College,Yes
+2705,12705,Some College,Yes
+2706,12706,Some College,Yes
+2707,12707,Some College,Yes
+2708,12708,Graduate,Yes
+2709,12709,College,Yes
+2710,12710,College,No
+2711,12711,Graduate,Yes
+2712,12712,High School,Yes
+2713,12713,Graduate,No
+2714,12714,High School,Yes
+2715,12715,High School,Yes
+2716,12716,College,Yes
+2717,12717,Some College,Yes
+2718,12718,College,Yes
+2719,12719,College,Yes
+2720,12720,Graduate,Yes
+2721,12721,Graduate,Yes
+2722,12722,High School,Yes
+2723,12723,Graduate,Yes
+2724,12724,High School,Yes
+2725,12725,High School,Yes
+2726,12726,Some College,Yes
+2727,12727,Some College,Yes
+2728,12728,College,No
+2729,12729,Some College,Yes
+2730,12730,High School,Yes
+2731,12731,Graduate,Yes
+2732,12732,Some College,Yes
+2733,12733,Some College,Yes
+2734,12734,Some College,Yes
+2735,12735,Some College,No
+2736,12736,High School,Yes
+2737,12737,High School,Yes
+2738,12738,College,Yes
+2739,12739,Graduate,Yes
+2740,12740,College,No
+2741,12741,College,Yes
+2742,12742,Some College,Yes
+2743,12743,Graduate,Yes
+2744,12744,Some College,Yes
+2745,12745,High School,Yes
+2746,12746,College,Yes
+2747,12747,Graduate,No
+2748,12748,High School,Yes
+2749,12749,College,Yes
+2750,12750,Graduate,Yes
+2751,12751,College,Yes
+2752,12752,Graduate,Yes
+2753,12753,College,Yes
+2754,12754,Some College,Yes
+2755,12755,College,Yes
+2756,12756,College,Yes
+2757,12757,Graduate,Yes
+2758,12758,Graduate,Yes
+2759,12759,Some College,Yes
+2760,12760,Graduate,Yes
+2761,12761,College,Yes
+2762,12762,Graduate,Yes
+2763,12763,Graduate,Yes
+2764,12764,Graduate,No
+2765,12765,Some College,Yes
+2766,12766,Some College,Yes
+2767,12767,High School,Yes
+2768,12768,Some College,Yes
+2769,12769,Some College,Yes
+2770,12770,Some College,No
+2771,12771,College,No
+2772,12772,High School,Yes
+2773,12773,College,Yes
+2774,12774,Some College,Yes
+2775,12775,Some College,Yes
+2776,12776,High School,Yes
+2777,12777,High School,Yes
+2778,12778,Graduate,Yes
+2779,12779,Some College,Yes
+2780,12780,Some College,Yes
+2781,12781,College,Yes
+2782,12782,Graduate,Yes
+2783,12783,Some College,Yes
+2784,12784,College,Yes
+2785,12785,High School,Yes
+2786,12786,College,Yes
+2787,12787,Some College,Yes
+2788,12788,College,Yes
+2789,12789,College,No
+2790,12790,Graduate,Yes
+2791,12791,Graduate,No
+2792,12792,High School,Yes
+2793,12793,Graduate,Yes
+2794,12794,College,Yes
+2795,12795,Graduate,Yes
+2796,12796,Some College,Yes
+2797,12797,College,Yes
+2798,12798,College,Yes
+2799,12799,College,Yes
+2800,12800,Some College,No
+2801,12801,College,No
+2802,12802,Graduate,Yes
+2803,12803,Some College,No
+2804,12804,College,Yes
+2805,12805,Graduate,Yes
+2806,12806,Graduate,Yes
+2807,12807,High School,No
+2808,12808,Graduate,Yes
+2809,12809,Graduate,Yes
+2810,12810,High School,Yes
+2811,12811,High School,Yes
+2812,12812,Some College,Yes
+2813,12813,Graduate,Yes
+2814,12814,Some College,Yes
+2815,12815,Some College,No
+2816,12816,College,Yes
+2817,12817,Some College,Yes
+2818,12818,Some College,Yes
+2819,12819,Some College,Yes
+2820,12820,Some College,Yes
+2821,12821,High School,Yes
+2822,12822,Graduate,No
+2823,12823,College,Yes
+2824,12824,High School,Yes
+2825,12825,College,Yes
+2826,12826,College,Yes
+2827,12827,High School,Yes
+2828,12828,Some College,Yes
+2829,12829,High School,Yes
+2830,12830,College,Yes
+2831,12831,College,Yes
+2832,12832,Some College,Yes
+2833,12833,High School,Yes
+2834,12834,Graduate,No
+2835,12835,College,Yes
+2836,12836,High School,Yes
+2837,12837,Some College,Yes
+2838,12838,Some College,Yes
+2839,12839,Graduate,Yes
+2840,12840,College,Yes
+2841,12841,Graduate,Yes
+2842,12842,Graduate,Yes
+2843,12843,Graduate,Yes
+2844,12844,Graduate,Yes
+2845,12845,Some College,Yes
+2846,12846,College,Yes
+2847,12847,Graduate,Yes
+2848,12848,College,Yes
+2849,12849,Some College,Yes
+2850,12850,Some College,Yes
+2851,12851,High School,Yes
+2852,12852,High School,No
+2853,12853,College,Yes
+2854,12854,High School,Yes
+2855,12855,Graduate,Yes
+2856,12856,College,Yes
+2857,12857,Some College,Yes
+2858,12858,Some College,Yes
+2859,12859,Graduate,No
+2860,12860,High School,Yes
+2861,12861,College,Yes
+2862,12862,College,Yes
+2863,12863,Graduate,No
+2864,12864,High School,Yes
+2865,12865,College,Yes
+2866,12866,Graduate,Yes
+2867,12867,College,Yes
+2868,12868,Some College,Yes
+2869,12869,College,No
+2870,12870,College,Yes
+2871,12871,College,Yes
+2872,12872,High School,Yes
+2873,12873,High School,Yes
+2874,12874,Graduate,Yes
+2875,12875,High School,Yes
+2876,12876,College,Yes
+2877,12877,College,Yes
+2878,12878,High School,Yes
+2879,12879,High School,Yes
+2880,12880,College,Yes
+2881,12881,College,Yes
+2882,12882,Some College,Yes
+2883,12883,Graduate,No
+2884,12884,High School,Yes
+2885,12885,Graduate,Yes
+2886,12886,College,Yes
+2887,12887,Graduate,Yes
+2888,12888,High School,Yes
+2889,12889,High School,Yes
+2890,12890,Graduate,Yes
+2891,12891,High School,Yes
+2892,12892,Some College,Yes
+2893,12893,College,Yes
+2894,12894,College,Yes
+2895,12895,High School,Yes
+2896,12896,College,Yes
+2897,12897,Some College,Yes
+2898,12898,High School,Yes
+2899,12899,Some College,Yes
+2900,12900,Some College,Yes
+2901,12901,College,Yes
+2902,12902,College,Yes
+2903,12903,Graduate,Yes
+2904,12904,Some College,Yes
+2905,12905,College,Yes
+2906,12906,Some College,Yes
+2907,12907,Graduate,Yes
+2908,12908,Some College,Yes
+2909,12909,High School,Yes
+2910,12910,Graduate,Yes
+2911,12911,Graduate,Yes
+2912,12912,Some College,Yes
+2913,12913,Some College,Yes
+2914,12914,College,Yes
+2915,12915,High School,Yes
+2916,12916,Graduate,Yes
+2917,12917,Graduate,Yes
+2918,12918,Graduate,Yes
+2919,12919,College,No
+2920,12920,High School,Yes
+2921,12921,Graduate,Yes
+2922,12922,Graduate,Yes
+2923,12923,College,Yes
+2924,12924,Some College,Yes
+2925,12925,Graduate,Yes
+2926,12926,High School,No
+2927,12927,High School,Yes
+2928,12928,High School,Yes
+2929,12929,High School,Yes
+2930,12930,College,No
+2931,12931,Graduate,Yes
+2932,12932,College,No
+2933,12933,High School,Yes
+2934,12934,High School,Yes
+2935,12935,High School,Yes
+2936,12936,College,Yes
+2937,12937,High School,Yes
+2938,12938,Graduate,Yes
+2939,12939,High School,Yes
+2940,12940,Graduate,Yes
+2941,12941,Graduate,Yes
+2942,12942,High School,Yes
+2943,12943,College,Yes
+2944,12944,Some College,Yes
+2945,12945,Some College,Yes
+2946,12946,Graduate,Yes
+2947,12947,College,Yes
+2948,12948,Some College,Yes
+2949,12949,High School,Yes
+2950,12950,High School,No
+2951,12951,Graduate,Yes
+2952,12952,College,No
+2953,12953,College,Yes
+2954,12954,Some College,Yes
+2955,12955,Some College,Yes
+2956,12956,High School,Yes
+2957,12957,Graduate,Yes
+2958,12958,College,Yes
+2959,12959,Some College,Yes
+2960,12960,Some College,Yes
+2961,12961,Graduate,Yes
+2962,12962,Graduate,Yes
+2963,12963,High School,Yes
+2964,12964,Graduate,Yes
+2965,12965,High School,Yes
+2966,12966,High School,Yes
+2967,12967,Graduate,Yes
+2968,12968,Graduate,Yes
+2969,12969,Graduate,Yes
+2970,12970,Graduate,Yes
+2971,12971,Graduate,Yes
+2972,12972,High School,Yes
+2973,12973,Some College,Yes
+2974,12974,College,Yes
+2975,12975,College,Yes
+2976,12976,High School,No
+2977,12977,High School,Yes
+2978,12978,Some College,Yes
+2979,12979,Graduate,Yes
+2980,12980,High School,Yes
+2981,12981,College,Yes
+2982,12982,Graduate,Yes
+2983,12983,High School,Yes
+2984,12984,Graduate,Yes
+2985,12985,College,Yes
+2986,12986,Graduate,Yes
+2987,12987,High School,Yes
+2988,12988,High School,Yes
+2989,12989,College,Yes
+2990,12990,Some College,Yes
+2991,12991,Some College,Yes
+2992,12992,Graduate,Yes
+2993,12993,High School,Yes
+2994,12994,High School,No
+2995,12995,College,Yes
+2996,12996,College,No
+2997,12997,High School,Yes
+2998,12998,College,Yes
+2999,12999,Some College,Yes
+3000,13000,Some College,Yes
+3001,13001,Graduate,Yes
+3002,13002,College,Yes
+3003,13003,Graduate,Yes
+3004,13004,College,Yes
+3005,13005,College,Yes
+3006,13006,Some College,Yes
+3007,13007,High School,Yes
+3008,13008,College,Yes
+3009,13009,College,Yes
+3010,13010,College,Yes
+3011,13011,High School,Yes
+3012,13012,Graduate,Yes
+3013,13013,Graduate,No
+3014,13014,College,Yes
+3015,13015,College,Yes
+3016,13016,Graduate,Yes
+3017,13017,Graduate,Yes
+3018,13018,Some College,Yes
+3019,13019,College,Yes
+3020,13020,Graduate,Yes
+3021,13021,Some College,Yes
+3022,13022,High School,Yes
+3023,13023,College,Yes
+3024,13024,Graduate,Yes
+3025,13025,College,Yes
+3026,13026,Some College,Yes
+3027,13027,Graduate,Yes
+3028,13028,High School,Yes
+3029,13029,High School,Yes
+3030,13030,Some College,Yes
+3031,13031,High School,Yes
+3032,13032,High School,Yes
+3033,13033,High School,Yes
+3034,13034,High School,Yes
+3035,13035,High School,Yes
+3036,13036,High School,Yes
+3037,13037,High School,Yes
+3038,13038,Graduate,Yes
+3039,13039,High School,Yes
+3040,13040,Graduate,Yes
+3041,13041,College,Yes
+3042,13042,Some College,No
+3043,13043,High School,Yes
+3044,13044,Some College,Yes
+3045,13045,High School,Yes
+3046,13046,Graduate,Yes
+3047,13047,High School,Yes
+3048,13048,College,Yes
+3049,13049,Some College,Yes
+3050,13050,Some College,Yes
+3051,13051,College,Yes
+3052,13052,Graduate,No
+3053,13053,Graduate,Yes
+3054,13054,College,Yes
+3055,13055,Some College,Yes
+3056,13056,High School,Yes
+3057,13057,Graduate,Yes
+3058,13058,High School,Yes
+3059,13059,Some College,Yes
+3060,13060,High School,Yes
+3061,13061,College,Yes
+3062,13062,Graduate,Yes
+3063,13063,Graduate,Yes
+3064,13064,College,Yes
+3065,13065,College,Yes
+3066,13066,Graduate,Yes
+3067,13067,Graduate,Yes
+3068,13068,Graduate,Yes
+3069,13069,Some College,Yes
+3070,13070,Some College,Yes
+3071,13071,Some College,Yes
+3072,13072,High School,Yes
+3073,13073,Some College,Yes
+3074,13074,Graduate,Yes
+3075,13075,Some College,Yes
+3076,13076,Graduate,Yes
+3077,13077,College,Yes
+3078,13078,High School,Yes
+3079,13079,High School,Yes
+3080,13080,College,Yes
+3081,13081,Graduate,Yes
+3082,13082,High School,Yes
+3083,13083,Some College,No
+3084,13084,Graduate,Yes
+3085,13085,High School,No
+3086,13086,College,Yes
+3087,13087,Graduate,Yes
+3088,13088,High School,Yes
+3089,13089,College,Yes
+3090,13090,Graduate,Yes
+3091,13091,Some College,Yes
+3092,13092,Graduate,Yes
+3093,13093,Some College,Yes
+3094,13094,Graduate,Yes
+3095,13095,College,Yes
+3096,13096,Some College,Yes
+3097,13097,Some College,Yes
+3098,13098,Graduate,Yes
+3099,13099,High School,Yes
+3100,13100,Some College,Yes
+3101,13101,Graduate,Yes
+3102,13102,College,Yes
+3103,13103,Graduate,Yes
+3104,13104,Graduate,Yes
+3105,13105,Some College,Yes
+3106,13106,High School,Yes
+3107,13107,College,Yes
+3108,13108,Some College,Yes
+3109,13109,Some College,Yes
+3110,13110,Some College,Yes
+3111,13111,College,Yes
+3112,13112,High School,Yes
+3113,13113,College,Yes
+3114,13114,College,No
+3115,13115,High School,Yes
+3116,13116,College,Yes
+3117,13117,Graduate,Yes
+3118,13118,College,Yes
+3119,13119,Some College,Yes
+3120,13120,College,Yes
+3121,13121,Some College,Yes
+3122,13122,College,Yes
+3123,13123,Some College,Yes
+3124,13124,Some College,Yes
+3125,13125,Some College,Yes
+3126,13126,High School,No
+3127,13127,College,Yes
+3128,13128,College,Yes
+3129,13129,Graduate,Yes
+3130,13130,Graduate,Yes
+3131,13131,Graduate,Yes
+3132,13132,College,Yes
+3133,13133,High School,Yes
+3134,13134,Some College,Yes
+3135,13135,College,Yes
+3136,13136,High School,Yes
+3137,13137,High School,Yes
+3138,13138,College,Yes
+3139,13139,Some College,Yes
+3140,13140,High School,Yes
+3141,13141,College,Yes
+3142,13142,Some College,Yes
+3143,13143,Graduate,No
+3144,13144,High School,Yes
+3145,13145,High School,Yes
+3146,13146,College,Yes
+3147,13147,College,Yes
+3148,13148,Some College,Yes
+3149,13149,Graduate,Yes
+3150,13150,Graduate,No
+3151,13151,College,No
+3152,13152,College,Yes
+3153,13153,Some College,Yes
+3154,13154,College,Yes
+3155,13155,Some College,Yes
+3156,13156,Some College,Yes
+3157,13157,Graduate,Yes
+3158,13158,Some College,Yes
+3159,13159,Graduate,Yes
+3160,13160,Graduate,Yes
+3161,13161,Graduate,Yes
+3162,13162,College,Yes
+3163,13163,Graduate,Yes
+3164,13164,Some College,Yes
+3165,13165,College,No
+3166,13166,Some College,Yes
+3167,13167,College,Yes
+3168,13168,Some College,Yes
+3169,13169,High School,Yes
+3170,13170,High School,Yes
+3171,13171,High School,Yes
+3172,13172,Some College,No
+3173,13173,College,Yes
+3174,13174,Graduate,Yes
+3175,13175,Graduate,Yes
+3176,13176,Some College,Yes
+3177,13177,Some College,Yes
+3178,13178,Some College,Yes
+3179,13179,Some College,Yes
+3180,13180,Graduate,Yes
+3181,13181,College,Yes
+3182,13182,Graduate,Yes
+3183,13183,Some College,Yes
+3184,13184,High School,Yes
+3185,13185,Graduate,Yes
+3186,13186,High School,Yes
+3187,13187,High School,Yes
+3188,13188,Some College,Yes
+3189,13189,Graduate,Yes
+3190,13190,College,Yes
+3191,13191,Graduate,Yes
+3192,13192,College,Yes
+3193,13193,College,Yes
+3194,13194,Some College,Yes
+3195,13195,College,Yes
+3196,13196,Graduate,Yes
+3197,13197,Graduate,Yes
+3198,13198,High School,Yes
+3199,13199,College,Yes
+3200,13200,Some College,No
+3201,13201,Some College,Yes
+3202,13202,Graduate,Yes
+3203,13203,College,Yes
+3204,13204,Some College,No
+3205,13205,College,Yes
+3206,13206,College,Yes
+3207,13207,High School,Yes
+3208,13208,Some College,Yes
+3209,13209,High School,Yes
+3210,13210,Some College,Yes
+3211,13211,College,Yes
+3212,13212,Some College,Yes
+3213,13213,Graduate,Yes
+3214,13214,College,Yes
+3215,13215,Some College,Yes
+3216,13216,High School,No
+3217,13217,High School,Yes
+3218,13218,College,Yes
+3219,13219,High School,Yes
+3220,13220,College,Yes
+3221,13221,College,Yes
+3222,13222,College,Yes
+3223,13223,Some College,Yes
+3224,13224,College,Yes
+3225,13225,High School,Yes
+3226,13226,Graduate,Yes
+3227,13227,Some College,Yes
+3228,13228,High School,Yes
+3229,13229,College,Yes
+3230,13230,College,Yes
+3231,13231,Graduate,Yes
+3232,13232,High School,Yes
+3233,13233,Some College,Yes
+3234,13234,High School,Yes
+3235,13235,College,Yes
+3236,13236,Some College,Yes
+3237,13237,College,Yes
+3238,13238,College,Yes
+3239,13239,High School,Yes
+3240,13240,Graduate,Yes
+3241,13241,College,Yes
+3242,13242,High School,No
+3243,13243,Some College,No
+3244,13244,Graduate,Yes
+3245,13245,College,Yes
+3246,13246,College,Yes
+3247,13247,Some College,Yes
+3248,13248,High School,Yes
+3249,13249,College,Yes
+3250,13250,Some College,No
+3251,13251,College,Yes
+3252,13252,High School,Yes
+3253,13253,Graduate,Yes
+3254,13254,High School,Yes
+3255,13255,High School,Yes
+3256,13256,High School,Yes
+3257,13257,Some College,Yes
+3258,13258,College,Yes
+3259,13259,Graduate,Yes
+3260,13260,Some College,Yes
+3261,13261,High School,Yes
+3262,13262,Graduate,Yes
+3263,13263,High School,Yes
+3264,13264,High School,Yes
+3265,13265,High School,Yes
+3266,13266,Graduate,Yes
+3267,13267,College,Yes
+3268,13268,High School,Yes
+3269,13269,College,No
+3270,13270,Graduate,Yes
+3271,13271,Graduate,Yes
+3272,13272,High School,Yes
+3273,13273,College,Yes
+3274,13274,College,Yes
+3275,13275,High School,Yes
+3276,13276,Some College,Yes
+3277,13277,Some College,No
+3278,13278,Graduate,Yes
+3279,13279,Graduate,Yes
+3280,13280,Some College,Yes
+3281,13281,Some College,Yes
+3282,13282,Some College,Yes
+3283,13283,High School,Yes
+3284,13284,High School,Yes
+3285,13285,High School,Yes
+3286,13286,High School,Yes
+3287,13287,High School,Yes
+3288,13288,High School,Yes
+3289,13289,Graduate,Yes
+3290,13290,College,Yes
+3291,13291,Graduate,Yes
+3292,13292,College,Yes
+3293,13293,Graduate,Yes
+3294,13294,Graduate,Yes
+3295,13295,High School,Yes
+3296,13296,High School,Yes
+3297,13297,College,Yes
+3298,13298,College,Yes
+3299,13299,High School,Yes
+3300,13300,Graduate,Yes
+3301,13301,College,Yes
+3302,13302,Some College,Yes
+3303,13303,Some College,No
+3304,13304,Some College,No
+3305,13305,College,Yes
+3306,13306,High School,Yes
+3307,13307,High School,Yes
+3308,13308,High School,Yes
+3309,13309,College,Yes
+3310,13310,College,Yes
+3311,13311,Some College,No
+3312,13312,College,No
+3313,13313,Some College,Yes
+3314,13314,Some College,Yes
+3315,13315,High School,Yes
+3316,13316,College,Yes
+3317,13317,High School,Yes
+3318,13318,High School,Yes
+3319,13319,College,Yes
+3320,13320,College,Yes
+3321,13321,Graduate,Yes
+3322,13322,Some College,Yes
+3323,13323,Graduate,Yes
+3324,13324,Some College,Yes
+3325,13325,Some College,Yes
+3326,13326,Some College,Yes
+3327,13327,High School,Yes
+3328,13328,High School,Yes
+3329,13329,College,Yes
+3330,13330,Some College,Yes
+3331,13331,Some College,Yes
+3332,13332,Some College,Yes
+3333,13333,High School,Yes
+3334,13334,College,Yes
+3335,13335,High School,Yes
+3336,13336,Graduate,Yes
+3337,13337,Graduate,Yes
+3338,13338,Graduate,Yes
+3339,13339,College,Yes
+3340,13340,Graduate,Yes
+3341,13341,College,Yes
+3342,13342,High School,Yes
+3343,13343,High School,Yes
+3344,13344,College,Yes
+3345,13345,High School,Yes
+3346,13346,High School,Yes
+3347,13347,College,Yes
+3348,13348,Graduate,Yes
+3349,13349,College,Yes
+3350,13350,Some College,Yes
+3351,13351,High School,Yes
+3352,13352,College,Yes
+3353,13353,High School,Yes
+3354,13354,Graduate,Yes
+3355,13355,High School,Yes
+3356,13356,College,Yes
+3357,13357,Graduate,Yes
+3358,13358,Graduate,No
+3359,13359,Graduate,Yes
+3360,13360,Some College,Yes
+3361,13361,College,Yes
+3362,13362,College,Yes
+3363,13363,Graduate,Yes
+3364,13364,High School,Yes
+3365,13365,Graduate,Yes
+3366,13366,Some College,Yes
+3367,13367,Graduate,Yes
+3368,13368,College,Yes
+3369,13369,Graduate,Yes
+3370,13370,High School,Yes
+3371,13371,College,Yes
+3372,13372,High School,Yes
+3373,13373,Graduate,Yes
+3374,13374,College,Yes
+3375,13375,Some College,Yes
+3376,13376,College,Yes
+3377,13377,High School,Yes
+3378,13378,College,Yes
+3379,13379,Some College,Yes
+3380,13380,Some College,Yes
+3381,13381,Some College,Yes
+3382,13382,Some College,Yes
+3383,13383,High School,Yes
+3384,13384,College,Yes
+3385,13385,Graduate,Yes
+3386,13386,Some College,No
+3387,13387,Graduate,Yes
+3388,13388,Graduate,Yes
+3389,13389,College,No
+3390,13390,Graduate,Yes
+3391,13391,Graduate,Yes
+3392,13392,High School,Yes
+3393,13393,Graduate,Yes
+3394,13394,College,Yes
+3395,13395,Graduate,Yes
+3396,13396,College,Yes
+3397,13397,Some College,Yes
+3398,13398,Graduate,Yes
+3399,13399,Graduate,Yes
+3400,13400,Graduate,Yes
+3401,13401,Some College,Yes
+3402,13402,High School,No
+3403,13403,Graduate,Yes
+3404,13404,College,No
+3405,13405,High School,Yes
+3406,13406,High School,Yes
+3407,13407,High School,Yes
+3408,13408,Graduate,Yes
+3409,13409,Some College,Yes
+3410,13410,Some College,Yes
+3411,13411,Graduate,Yes
+3412,13412,College,Yes
+3413,13413,College,Yes
+3414,13414,College,Yes
+3415,13415,Graduate,Yes
+3416,13416,Some College,Yes
+3417,13417,Graduate,Yes
+3418,13418,Some College,Yes
+3419,13419,High School,Yes
+3420,13420,Graduate,Yes
+3421,13421,Some College,Yes
+3422,13422,High School,Yes
+3423,13423,High School,Yes
+3424,13424,Graduate,Yes
+3425,13425,Some College,Yes
+3426,13426,High School,Yes
+3427,13427,Graduate,Yes
+3428,13428,High School,Yes
+3429,13429,College,Yes
+3430,13430,Graduate,Yes
+3431,13431,High School,Yes
+3432,13432,Graduate,Yes
+3433,13433,Graduate,Yes
+3434,13434,Some College,Yes
+3435,13435,Some College,Yes
+3436,13436,High School,Yes
+3437,13437,Graduate,Yes
+3438,13438,Graduate,Yes
+3439,13439,College,Yes
+3440,13440,Graduate,Yes
+3441,13441,Some College,Yes
+3442,13442,Graduate,Yes
+3443,13443,Some College,Yes
+3444,13444,College,Yes
+3445,13445,High School,Yes
+3446,13446,Some College,Yes
+3447,13447,High School,Yes
+3448,13448,High School,Yes
+3449,13449,High School,Yes
+3450,13450,High School,No
+3451,13451,Some College,Yes
+3452,13452,College,No
+3453,13453,Graduate,Yes
+3454,13454,Some College,Yes
+3455,13455,College,Yes
+3456,13456,Graduate,Yes
+3457,13457,High School,Yes
+3458,13458,Graduate,Yes
+3459,13459,Graduate,Yes
+3460,13460,College,Yes
+3461,13461,Graduate,Yes
+3462,13462,High School,Yes
+3463,13463,Some College,Yes
+3464,13464,Some College,Yes
+3465,13465,College,Yes
+3466,13466,High School,Yes
+3467,13467,High School,Yes
+3468,13468,Graduate,Yes
+3469,13469,College,Yes
+3470,13470,High School,Yes
+3471,13471,High School,Yes
+3472,13472,High School,Yes
+3473,13473,Some College,Yes
+3474,13474,Some College,Yes
+3475,13475,Some College,Yes
+3476,13476,Graduate,Yes
+3477,13477,Graduate,Yes
+3478,13478,Graduate,Yes
+3479,13479,High School,Yes
+3480,13480,Some College,Yes
+3481,13481,High School,Yes
+3482,13482,High School,Yes
+3483,13483,College,No
+3484,13484,High School,Yes
+3485,13485,Graduate,Yes
+3486,13486,Some College,Yes
+3487,13487,Some College,Yes
+3488,13488,High School,Yes
+3489,13489,Graduate,Yes
+3490,13490,Graduate,Yes
+3491,13491,Graduate,Yes
+3492,13492,Some College,Yes
+3493,13493,Graduate,Yes
+3494,13494,Graduate,Yes
+3495,13495,High School,No
+3496,13496,College,Yes
+3497,13497,Graduate,Yes
+3498,13498,High School,Yes
+3499,13499,High School,Yes
+3500,13500,Graduate,Yes
+3501,13501,College,Yes
+3502,13502,Some College,No
+3503,13503,College,Yes
+3504,13504,Graduate,Yes
+3505,13505,College,Yes
+3506,13506,High School,Yes
+3507,13507,High School,No
+3508,13508,College,Yes
+3509,13509,Some College,No
+3510,13510,College,Yes
+3511,13511,Graduate,Yes
+3512,13512,Some College,Yes
+3513,13513,College,Yes
+3514,13514,College,Yes
+3515,13515,Some College,No
+3516,13516,College,Yes
+3517,13517,Graduate,Yes
+3518,13518,High School,Yes
+3519,13519,Graduate,Yes
+3520,13520,College,Yes
+3521,13521,High School,Yes
+3522,13522,Some College,No
+3523,13523,Graduate,Yes
+3524,13524,Some College,Yes
+3525,13525,High School,Yes
+3526,13526,College,Yes
+3527,13527,High School,Yes
+3528,13528,High School,Yes
+3529,13529,Some College,Yes
+3530,13530,Graduate,Yes
+3531,13531,High School,Yes
+3532,13532,College,Yes
+3533,13533,High School,Yes
+3534,13534,Some College,Yes
+3535,13535,Graduate,Yes
+3536,13536,College,Yes
+3537,13537,Some College,Yes
+3538,13538,High School,Yes
+3539,13539,High School,Yes
+3540,13540,Graduate,Yes
+3541,13541,Some College,Yes
+3542,13542,Some College,Yes
+3543,13543,Graduate,Yes
+3544,13544,College,No
+3545,13545,Some College,Yes
+3546,13546,Graduate,Yes
+3547,13547,Some College,No
+3548,13548,Graduate,Yes
+3549,13549,High School,Yes
+3550,13550,High School,No
+3551,13551,Some College,No
+3552,13552,Some College,Yes
+3553,13553,High School,Yes
+3554,13554,College,Yes
+3555,13555,Graduate,Yes
+3556,13556,College,Yes
+3557,13557,College,Yes
+3558,13558,College,Yes
+3559,13559,High School,Yes
+3560,13560,Some College,Yes
+3561,13561,College,Yes
+3562,13562,High School,Yes
+3563,13563,Graduate,Yes
+3564,13564,Some College,Yes
+3565,13565,Graduate,Yes
+3566,13566,College,Yes
+3567,13567,Some College,Yes
+3568,13568,College,Yes
+3569,13569,Some College,Yes
+3570,13570,College,No
+3571,13571,Graduate,Yes
+3572,13572,Graduate,Yes
+3573,13573,College,Yes
+3574,13574,Some College,Yes
+3575,13575,Graduate,Yes
+3576,13576,Some College,Yes
+3577,13577,Some College,Yes
+3578,13578,Graduate,Yes
+3579,13579,High School,No
+3580,13580,High School,Yes
+3581,13581,Some College,Yes
+3582,13582,Graduate,Yes
+3583,13583,High School,Yes
+3584,13584,College,Yes
+3585,13585,Some College,Yes
+3586,13586,High School,No
+3587,13587,Graduate,Yes
+3588,13588,Graduate,Yes
+3589,13589,Some College,Yes
+3590,13590,Graduate,Yes
+3591,13591,College,Yes
+3592,13592,College,Yes
+3593,13593,High School,Yes
+3594,13594,Graduate,Yes
+3595,13595,College,Yes
+3596,13596,Some College,Yes
+3597,13597,Graduate,Yes
+3598,13598,High School,Yes
+3599,13599,Some College,Yes
+3600,13600,Some College,Yes
+3601,13601,Some College,Yes
+3602,13602,College,Yes
+3603,13603,Some College,Yes
+3604,13604,College,Yes
+3605,13605,Some College,No
+3606,13606,College,Yes
+3607,13607,Graduate,No
+3608,13608,College,Yes
+3609,13609,College,Yes
+3610,13610,Graduate,Yes
+3611,13611,Some College,Yes
+3612,13612,Graduate,No
+3613,13613,Some College,Yes
+3614,13614,College,Yes
+3615,13615,Some College,Yes
+3616,13616,College,Yes
+3617,13617,Some College,Yes
+3618,13618,College,Yes
+3619,13619,College,Yes
+3620,13620,High School,Yes
+3621,13621,Some College,Yes
+3622,13622,Some College,Yes
+3623,13623,High School,Yes
+3624,13624,College,Yes
+3625,13625,College,Yes
+3626,13626,High School,Yes
+3627,13627,High School,Yes
+3628,13628,Graduate,Yes
+3629,13629,College,Yes
+3630,13630,Graduate,Yes
+3631,13631,Some College,Yes
+3632,13632,Graduate,Yes
+3633,13633,High School,Yes
+3634,13634,High School,Yes
+3635,13635,High School,No
+3636,13636,High School,Yes
+3637,13637,Graduate,Yes
+3638,13638,Graduate,Yes
+3639,13639,Graduate,Yes
+3640,13640,High School,Yes
+3641,13641,High School,Yes
+3642,13642,College,Yes
+3643,13643,College,Yes
+3644,13644,High School,Yes
+3645,13645,College,Yes
+3646,13646,Some College,Yes
+3647,13647,Some College,Yes
+3648,13648,High School,Yes
+3649,13649,Graduate,Yes
+3650,13650,Some College,Yes
+3651,13651,Some College,Yes
+3652,13652,Graduate,Yes
+3653,13653,College,Yes
+3654,13654,Graduate,No
+3655,13655,College,Yes
+3656,13656,College,Yes
+3657,13657,Graduate,Yes
+3658,13658,College,Yes
+3659,13659,Some College,Yes
+3660,13660,High School,Yes
+3661,13661,College,Yes
+3662,13662,Some College,Yes
+3663,13663,Graduate,Yes
+3664,13664,College,No
+3665,13665,Some College,Yes
+3666,13666,College,Yes
+3667,13667,Graduate,Yes
+3668,13668,High School,Yes
+3669,13669,College,Yes
+3670,13670,High School,Yes
+3671,13671,College,Yes
+3672,13672,College,Yes
+3673,13673,Graduate,Yes
+3674,13674,College,Yes
+3675,13675,Some College,Yes
+3676,13676,Some College,Yes
+3677,13677,High School,Yes
+3678,13678,High School,Yes
+3679,13679,Some College,Yes
+3680,13680,High School,Yes
+3681,13681,High School,Yes
+3682,13682,Some College,Yes
+3683,13683,Some College,Yes
+3684,13684,Some College,Yes
+3685,13685,Graduate,Yes
+3686,13686,Graduate,No
+3687,13687,Some College,Yes
+3688,13688,College,Yes
+3689,13689,Some College,No
+3690,13690,Graduate,Yes
+3691,13691,High School,Yes
+3692,13692,College,No
+3693,13693,College,Yes
+3694,13694,High School,Yes
+3695,13695,College,Yes
+3696,13696,High School,Yes
+3697,13697,Graduate,Yes
+3698,13698,College,Yes
+3699,13699,College,Yes
+3700,13700,High School,Yes
+3701,13701,High School,Yes
+3702,13702,Graduate,Yes
+3703,13703,High School,Yes
+3704,13704,High School,Yes
+3705,13705,Graduate,Yes
+3706,13706,Some College,Yes
+3707,13707,Some College,Yes
+3708,13708,High School,Yes
+3709,13709,Graduate,Yes
+3710,13710,Some College,Yes
+3711,13711,Graduate,Yes
+3712,13712,High School,Yes
+3713,13713,High School,Yes
+3714,13714,Graduate,Yes
+3715,13715,College,Yes
+3716,13716,High School,Yes
+3717,13717,High School,Yes
+3718,13718,High School,Yes
+3719,13719,High School,Yes
+3720,13720,Graduate,Yes
+3721,13721,Graduate,Yes
+3722,13722,Graduate,Yes
+3723,13723,Graduate,Yes
+3724,13724,College,Yes
+3725,13725,Graduate,Yes
+3726,13726,Graduate,Yes
+3727,13727,High School,Yes
+3728,13728,College,Yes
+3729,13729,High School,Yes
+3730,13730,College,Yes
+3731,13731,Some College,No
+3732,13732,College,No
+3733,13733,College,Yes
+3734,13734,High School,Yes
+3735,13735,College,Yes
+3736,13736,College,Yes
+3737,13737,High School,Yes
+3738,13738,Some College,No
+3739,13739,Some College,Yes
+3740,13740,Some College,Yes
+3741,13741,College,Yes
+3742,13742,High School,Yes
+3743,13743,Some College,Yes
+3744,13744,Some College,Yes
+3745,13745,Some College,Yes
+3746,13746,Some College,Yes
+3747,13747,High School,Yes
+3748,13748,Some College,Yes
+3749,13749,College,No
+3750,13750,College,Yes
+3751,13751,High School,Yes
+3752,13752,Graduate,Yes
+3753,13753,Some College,Yes
+3754,13754,Some College,Yes
+3755,13755,College,Yes
+3756,13756,High School,Yes
+3757,13757,Graduate,Yes
+3758,13758,College,Yes
+3759,13759,Graduate,Yes
+3760,13760,High School,Yes
+3761,13761,High School,Yes
+3762,13762,High School,No
+3763,13763,College,Yes
+3764,13764,High School,No
+3765,13765,College,Yes
+3766,13766,College,Yes
+3767,13767,Some College,Yes
+3768,13768,College,Yes
+3769,13769,College,Yes
+3770,13770,Some College,Yes
+3771,13771,Graduate,Yes
+3772,13772,Some College,Yes
+3773,13773,Some College,Yes
+3774,13774,High School,Yes
+3775,13775,High School,Yes
+3776,13776,Some College,Yes
+3777,13777,High School,No
+3778,13778,Some College,Yes
+3779,13779,High School,Yes
+3780,13780,College,Yes
+3781,13781,High School,Yes
+3782,13782,High School,Yes
+3783,13783,College,Yes
+3784,13784,Some College,No
+3785,13785,High School,Yes
+3786,13786,High School,Yes
+3787,13787,College,Yes
+3788,13788,College,Yes
+3789,13789,College,Yes
+3790,13790,Graduate,Yes
+3791,13791,College,Yes
+3792,13792,Some College,Yes
+3793,13793,High School,Yes
+3794,13794,High School,Yes
+3795,13795,Graduate,Yes
+3796,13796,High School,Yes
+3797,13797,High School,Yes
+3798,13798,Some College,Yes
+3799,13799,High School,Yes
+3800,13800,Some College,Yes
+3801,13801,Graduate,Yes
+3802,13802,Some College,Yes
+3803,13803,College,Yes
+3804,13804,College,Yes
+3805,13805,Graduate,Yes
+3806,13806,High School,Yes
+3807,13807,Some College,Yes
+3808,13808,College,Yes
+3809,13809,Some College,Yes
+3810,13810,College,Yes
+3811,13811,Some College,Yes
+3812,13812,High School,Yes
+3813,13813,Graduate,Yes
+3814,13814,High School,Yes
+3815,13815,Some College,Yes
+3816,13816,College,Yes
+3817,13817,College,Yes
+3818,13818,Graduate,Yes
+3819,13819,High School,No
+3820,13820,High School,Yes
+3821,13821,High School,No
+3822,13822,College,Yes
+3823,13823,Graduate,Yes
+3824,13824,College,Yes
+3825,13825,High School,Yes
+3826,13826,Some College,Yes
+3827,13827,College,Yes
+3828,13828,Graduate,Yes
+3829,13829,High School,Yes
+3830,13830,Some College,Yes
+3831,13831,College,Yes
+3832,13832,Some College,Yes
+3833,13833,Some College,Yes
+3834,13834,Graduate,Yes
+3835,13835,College,Yes
+3836,13836,Graduate,No
+3837,13837,High School,Yes
+3838,13838,Some College,Yes
+3839,13839,Graduate,Yes
+3840,13840,Graduate,Yes
+3841,13841,High School,Yes
+3842,13842,College,Yes
+3843,13843,Graduate,Yes
+3844,13844,Some College,Yes
+3845,13845,Some College,Yes
+3846,13846,Some College,No
+3847,13847,Some College,Yes
+3848,13848,Graduate,Yes
+3849,13849,Some College,Yes
+3850,13850,Graduate,Yes
+3851,13851,College,Yes
+3852,13852,Some College,Yes
+3853,13853,College,Yes
+3854,13854,Graduate,No
+3855,13855,High School,Yes
+3856,13856,College,Yes
+3857,13857,Some College,Yes
+3858,13858,High School,Yes
+3859,13859,College,Yes
+3860,13860,Graduate,Yes
+3861,13861,Graduate,Yes
+3862,13862,Graduate,Yes
+3863,13863,College,Yes
+3864,13864,Graduate,Yes
+3865,13865,College,Yes
+3866,13866,Some College,Yes
+3867,13867,Some College,Yes
+3868,13868,College,Yes
+3869,13869,College,Yes
+3870,13870,High School,Yes
+3871,13871,Graduate,Yes
+3872,13872,Some College,Yes
+3873,13873,Some College,Yes
+3874,13874,High School,Yes
+3875,13875,College,Yes
+3876,13876,College,Yes
+3877,13877,High School,Yes
+3878,13878,Graduate,Yes
+3879,13879,College,Yes
+3880,13880,College,Yes
+3881,13881,Graduate,Yes
+3882,13882,Graduate,Yes
+3883,13883,High School,Yes
+3884,13884,High School,Yes
+3885,13885,High School,Yes
+3886,13886,College,Yes
+3887,13887,High School,Yes
+3888,13888,College,Yes
+3889,13889,Some College,Yes
+3890,13890,Graduate,Yes
+3891,13891,Graduate,Yes
+3892,13892,Some College,Yes
+3893,13893,High School,Yes
+3894,13894,College,Yes
+3895,13895,College,Yes
+3896,13896,College,Yes
+3897,13897,Graduate,Yes
+3898,13898,High School,Yes
+3899,13899,College,Yes
+3900,13900,College,Yes
+3901,13901,College,Yes
+3902,13902,Some College,Yes
+3903,13903,College,Yes
+3904,13904,Some College,Yes
+3905,13905,College,Yes
+3906,13906,College,Yes
+3907,13907,College,Yes
+3908,13908,Some College,Yes
+3909,13909,College,Yes
+3910,13910,High School,Yes
+3911,13911,College,Yes
+3912,13912,Some College,Yes
+3913,13913,Some College,Yes
+3914,13914,High School,Yes
+3915,13915,Graduate,Yes
+3916,13916,High School,Yes
+3917,13917,High School,Yes
+3918,13918,Some College,Yes
+3919,13919,College,Yes
+3920,13920,College,Yes
+3921,13921,Graduate,Yes
+3922,13922,Graduate,Yes
+3923,13923,Graduate,Yes
+3924,13924,Graduate,Yes
+3925,13925,High School,Yes
+3926,13926,High School,Yes
+3927,13927,College,Yes
+3928,13928,High School,Yes
+3929,13929,College,Yes
+3930,13930,College,Yes
+3931,13931,College,Yes
+3932,13932,College,No
+3933,13933,Some College,Yes
+3934,13934,College,Yes
+3935,13935,High School,Yes
+3936,13936,High School,Yes
+3937,13937,High School,Yes
+3938,13938,High School,Yes
+3939,13939,Some College,Yes
+3940,13940,Graduate,Yes
+3941,13941,Graduate,Yes
+3942,13942,College,Yes
+3943,13943,College,Yes
+3944,13944,High School,Yes
+3945,13945,High School,Yes
+3946,13946,Graduate,Yes
+3947,13947,Graduate,Yes
+3948,13948,High School,Yes
+3949,13949,College,Yes
+3950,13950,Some College,Yes
+3951,13951,Some College,Yes
+3952,13952,Graduate,Yes
+3953,13953,Graduate,Yes
+3954,13954,Graduate,Yes
+3955,13955,Some College,Yes
+3956,13956,Some College,Yes
+3957,13957,High School,Yes
+3958,13958,College,Yes
+3959,13959,Graduate,Yes
+3960,13960,High School,Yes
+3961,13961,Some College,Yes
+3962,13962,High School,No
+3963,13963,Some College,Yes
+3964,13964,College,No
+3965,13965,Some College,Yes
+3966,13966,High School,Yes
+3967,13967,College,Yes
+3968,13968,Some College,Yes
+3969,13969,Graduate,Yes
+3970,13970,Some College,Yes
+3971,13971,College,Yes
+3972,13972,High School,Yes
+3973,13973,College,Yes
+3974,13974,High School,Yes
+3975,13975,Some College,No
+3976,13976,Some College,Yes
+3977,13977,College,Yes
+3978,13978,Graduate,Yes
+3979,13979,Some College,Yes
+3980,13980,Graduate,Yes
+3981,13981,Graduate,Yes
+3982,13982,College,Yes
+3983,13983,Some College,Yes
+3984,13984,Graduate,Yes
+3985,13985,Some College,Yes
+3986,13986,High School,Yes
+3987,13987,Graduate,Yes
+3988,13988,College,Yes
+3989,13989,College,Yes
+3990,13990,Graduate,Yes
+3991,13991,Some College,Yes
+3992,13992,High School,No
+3993,13993,High School,Yes
+3994,13994,College,Yes
+3995,13995,College,Yes
+3996,13996,Some College,No
+3997,13997,College,Yes
+3998,13998,Some College,Yes
+3999,13999,Graduate,Yes
+4000,14000,High School,Yes
+4001,14001,Graduate,Yes
+4002,14002,College,Yes
+4003,14003,High School,Yes
+4004,14004,High School,Yes
+4005,14005,Graduate,Yes
+4006,14006,Some College,Yes
+4007,14007,High School,Yes
+4008,14008,Some College,Yes
+4009,14009,Graduate,Yes
+4010,14010,Graduate,Yes
+4011,14011,Some College,Yes
+4012,14012,Graduate,Yes
+4013,14013,High School,Yes
+4014,14014,Graduate,Yes
+4015,14015,Graduate,Yes
+4016,14016,High School,Yes
+4017,14017,Some College,No
+4018,14018,Graduate,Yes
+4019,14019,Some College,Yes
+4020,14020,High School,No
+4021,14021,Some College,Yes
+4022,14022,Some College,Yes
+4023,14023,College,Yes
+4024,14024,College,Yes
+4025,14025,Graduate,No
+4026,14026,College,Yes
+4027,14027,College,No
+4028,14028,College,No
+4029,14029,Some College,Yes
+4030,14030,Some College,Yes
+4031,14031,College,Yes
+4032,14032,High School,Yes
+4033,14033,College,Yes
+4034,14034,High School,Yes
+4035,14035,Some College,Yes
+4036,14036,High School,No
+4037,14037,Some College,Yes
+4038,14038,High School,Yes
+4039,14039,Some College,Yes
+4040,14040,Some College,Yes
+4041,14041,College,Yes
+4042,14042,Graduate,Yes
+4043,14043,Graduate,Yes
+4044,14044,Some College,Yes
+4045,14045,College,Yes
+4046,14046,Graduate,Yes
+4047,14047,Graduate,No
+4048,14048,College,Yes
+4049,14049,College,Yes
+4050,14050,Graduate,Yes
+4051,14051,Graduate,Yes
+4052,14052,High School,Yes
+4053,14053,High School,No
+4054,14054,Some College,Yes
+4055,14055,Graduate,Yes
+4056,14056,College,Yes
+4057,14057,College,Yes
+4058,14058,Graduate,Yes
+4059,14059,Some College,Yes
+4060,14060,College,Yes
+4061,14061,Graduate,Yes
+4062,14062,Graduate,Yes
+4063,14063,Some College,Yes
+4064,14064,Graduate,Yes
+4065,14065,College,No
+4066,14066,High School,Yes
+4067,14067,Some College,Yes
+4068,14068,Graduate,Yes
+4069,14069,Some College,Yes
+4070,14070,Graduate,Yes
+4071,14071,High School,Yes
+4072,14072,Some College,Yes
+4073,14073,Graduate,Yes
+4074,14074,High School,Yes
+4075,14075,College,Yes
+4076,14076,Graduate,Yes
+4077,14077,High School,Yes
+4078,14078,High School,Yes
+4079,14079,Some College,Yes
+4080,14080,Graduate,Yes
+4081,14081,College,Yes
+4082,14082,Graduate,Yes
+4083,14083,High School,Yes
+4084,14084,College,Yes
+4085,14085,High School,Yes
+4086,14086,Some College,No
+4087,14087,Graduate,No
+4088,14088,High School,Yes
+4089,14089,High School,No
+4090,14090,Graduate,Yes
+4091,14091,College,Yes
+4092,14092,High School,Yes
+4093,14093,Graduate,Yes
+4094,14094,Some College,Yes
+4095,14095,Some College,Yes
+4096,14096,Graduate,No
+4097,14097,High School,Yes
+4098,14098,Graduate,Yes
+4099,14099,Graduate,No
+4100,14100,High School,Yes
+4101,14101,College,Yes
+4102,14102,College,Yes
+4103,14103,Some College,Yes
+4104,14104,College,Yes
+4105,14105,Graduate,Yes
+4106,14106,High School,Yes
+4107,14107,Some College,Yes
+4108,14108,College,Yes
+4109,14109,Graduate,Yes
+4110,14110,Some College,Yes
+4111,14111,High School,Yes
+4112,14112,College,No
+4113,14113,Graduate,Yes
+4114,14114,High School,Yes
+4115,14115,Graduate,No
+4116,14116,Graduate,Yes
+4117,14117,Graduate,Yes
+4118,14118,High School,Yes
+4119,14119,Some College,Yes
+4120,14120,Graduate,Yes
+4121,14121,Some College,Yes
+4122,14122,Some College,Yes
+4123,14123,College,Yes
+4124,14124,College,Yes
+4125,14125,Some College,Yes
+4126,14126,College,Yes
+4127,14127,College,Yes
+4128,14128,Some College,Yes
+4129,14129,High School,Yes
+4130,14130,College,Yes
+4131,14131,College,No
+4132,14132,High School,Yes
+4133,14133,High School,Yes
+4134,14134,High School,Yes
+4135,14135,Some College,No
+4136,14136,High School,Yes
+4137,14137,Some College,Yes
+4138,14138,Graduate,Yes
+4139,14139,Graduate,Yes
+4140,14140,High School,No
+4141,14141,High School,Yes
+4142,14142,Graduate,Yes
+4143,14143,Some College,Yes
+4144,14144,Some College,Yes
+4145,14145,High School,Yes
+4146,14146,High School,Yes
+4147,14147,High School,Yes
+4148,14148,Graduate,Yes
+4149,14149,College,Yes
+4150,14150,High School,Yes
+4151,14151,Some College,No
+4152,14152,College,Yes
+4153,14153,Some College,Yes
+4154,14154,College,Yes
+4155,14155,Graduate,Yes
+4156,14156,College,No
+4157,14157,Some College,Yes
+4158,14158,College,Yes
+4159,14159,Graduate,Yes
+4160,14160,Some College,Yes
+4161,14161,High School,Yes
+4162,14162,College,Yes
+4163,14163,Some College,Yes
+4164,14164,College,Yes
+4165,14165,Graduate,Yes
+4166,14166,Some College,Yes
+4167,14167,High School,No
+4168,14168,High School,No
+4169,14169,College,Yes
+4170,14170,Graduate,Yes
+4171,14171,Graduate,Yes
+4172,14172,College,Yes
+4173,14173,Some College,Yes
+4174,14174,Some College,Yes
+4175,14175,College,Yes
+4176,14176,Some College,Yes
+4177,14177,Some College,Yes
+4178,14178,Some College,Yes
+4179,14179,College,Yes
+4180,14180,High School,Yes
+4181,14181,Graduate,Yes
+4182,14182,High School,Yes
+4183,14183,Some College,Yes
+4184,14184,College,Yes
+4185,14185,Graduate,Yes
+4186,14186,Some College,Yes
+4187,14187,Graduate,Yes
+4188,14188,Graduate,Yes
+4189,14189,High School,Yes
+4190,14190,Some College,Yes
+4191,14191,Graduate,Yes
+4192,14192,High School,Yes
+4193,14193,College,Yes
+4194,14194,Graduate,Yes
+4195,14195,Some College,Yes
+4196,14196,College,Yes
+4197,14197,Graduate,Yes
+4198,14198,Graduate,Yes
+4199,14199,Some College,Yes
+4200,14200,Graduate,Yes
+4201,14201,Some College,Yes
+4202,14202,Some College,Yes
+4203,14203,Some College,Yes
+4204,14204,Some College,Yes
+4205,14205,Graduate,Yes
+4206,14206,College,Yes
+4207,14207,College,Yes
+4208,14208,High School,Yes
+4209,14209,Some College,Yes
+4210,14210,Graduate,Yes
+4211,14211,Graduate,Yes
+4212,14212,High School,Yes
+4213,14213,College,Yes
+4214,14214,Graduate,Yes
+4215,14215,High School,No
+4216,14216,College,Yes
+4217,14217,Graduate,Yes
+4218,14218,Some College,Yes
+4219,14219,High School,No
+4220,14220,Graduate,No
+4221,14221,High School,Yes
+4222,14222,High School,Yes
+4223,14223,High School,Yes
+4224,14224,Some College,Yes
+4225,14225,College,Yes
+4226,14226,College,Yes
+4227,14227,Graduate,Yes
+4228,14228,Some College,Yes
+4229,14229,College,Yes
+4230,14230,Graduate,Yes
+4231,14231,Graduate,Yes
+4232,14232,High School,Yes
+4233,14233,Some College,Yes
+4234,14234,College,Yes
+4235,14235,Some College,Yes
+4236,14236,Some College,Yes
+4237,14237,College,Yes
+4238,14238,College,Yes
+4239,14239,Some College,Yes
+4240,14240,Graduate,Yes
+4241,14241,Some College,No
+4242,14242,College,Yes
+4243,14243,Some College,Yes
+4244,14244,College,Yes
+4245,14245,Graduate,Yes
+4246,14246,Some College,No
+4247,14247,Graduate,Yes
+4248,14248,Some College,Yes
+4249,14249,Some College,Yes
+4250,14250,College,Yes
+4251,14251,High School,Yes
+4252,14252,College,Yes
+4253,14253,Some College,Yes
+4254,14254,High School,Yes
+4255,14255,High School,Yes
+4256,14256,Graduate,Yes
+4257,14257,Some College,Yes
+4258,14258,College,Yes
+4259,14259,High School,No
+4260,14260,High School,No
+4261,14261,College,Yes
+4262,14262,College,Yes
+4263,14263,High School,Yes
+4264,14264,College,Yes
+4265,14265,Graduate,Yes
+4266,14266,High School,Yes
+4267,14267,Graduate,Yes
+4268,14268,Some College,Yes
+4269,14269,Graduate,Yes
+4270,14270,College,Yes
+4271,14271,High School,Yes
+4272,14272,Graduate,Yes
+4273,14273,College,Yes
+4274,14274,College,Yes
+4275,14275,Graduate,Yes
+4276,14276,High School,Yes
+4277,14277,Graduate,Yes
+4278,14278,Some College,Yes
+4279,14279,Graduate,Yes
+4280,14280,Graduate,Yes
+4281,14281,High School,Yes
+4282,14282,Graduate,No
+4283,14283,College,Yes
+4284,14284,High School,Yes
+4285,14285,College,Yes
+4286,14286,High School,Yes
+4287,14287,Some College,Yes
+4288,14288,Some College,Yes
+4289,14289,Some College,Yes
+4290,14290,Graduate,Yes
+4291,14291,Some College,Yes
+4292,14292,High School,Yes
+4293,14293,Some College,Yes
+4294,14294,High School,Yes
+4295,14295,College,Yes
+4296,14296,Graduate,Yes
+4297,14297,College,Yes
+4298,14298,College,Yes
+4299,14299,Some College,Yes
+4300,14300,Some College,Yes
+4301,14301,Some College,Yes
+4302,14302,College,No
+4303,14303,Graduate,Yes
+4304,14304,Graduate,Yes
+4305,14305,College,Yes
+4306,14306,Graduate,Yes
+4307,14307,College,Yes
+4308,14308,College,Yes
+4309,14309,Graduate,Yes
+4310,14310,High School,Yes
+4311,14311,High School,Yes
+4312,14312,Some College,Yes
+4313,14313,Graduate,Yes
+4314,14314,Some College,Yes
+4315,14315,College,Yes
+4316,14316,High School,Yes
+4317,14317,Graduate,Yes
+4318,14318,Graduate,Yes
+4319,14319,Graduate,Yes
+4320,14320,High School,Yes
+4321,14321,Some College,Yes
+4322,14322,High School,No
+4323,14323,Some College,Yes
+4324,14324,College,Yes
+4325,14325,College,Yes
+4326,14326,Some College,Yes
+4327,14327,College,Yes
+4328,14328,College,Yes
+4329,14329,Graduate,Yes
+4330,14330,Graduate,Yes
+4331,14331,High School,Yes
+4332,14332,High School,Yes
+4333,14333,High School,Yes
+4334,14334,Graduate,Yes
+4335,14335,High School,Yes
+4336,14336,High School,Yes
+4337,14337,Graduate,Yes
+4338,14338,Some College,Yes
+4339,14339,Graduate,Yes
+4340,14340,Some College,Yes
+4341,14341,Graduate,Yes
+4342,14342,High School,Yes
+4343,14343,College,No
+4344,14344,College,Yes
+4345,14345,Some College,Yes
+4346,14346,Some College,Yes
+4347,14347,Some College,Yes
+4348,14348,College,Yes
+4349,14349,Some College,Yes
+4350,14350,Graduate,Yes
+4351,14351,Graduate,Yes
+4352,14352,College,Yes
+4353,14353,Graduate,Yes
+4354,14354,Some College,Yes
+4355,14355,College,Yes
+4356,14356,Some College,Yes
+4357,14357,Graduate,Yes
+4358,14358,Some College,Yes
+4359,14359,College,Yes
+4360,14360,Some College,Yes
+4361,14361,Graduate,Yes
+4362,14362,High School,Yes
+4363,14363,College,Yes
+4364,14364,Some College,Yes
+4365,14365,College,Yes
+4366,14366,Some College,Yes
+4367,14367,High School,Yes
+4368,14368,Graduate,Yes
+4369,14369,Some College,Yes
+4370,14370,Some College,Yes
+4371,14371,High School,No
+4372,14372,College,Yes
+4373,14373,Graduate,Yes
+4374,14374,Some College,Yes
+4375,14375,Some College,Yes
+4376,14376,Graduate,Yes
+4377,14377,High School,Yes
+4378,14378,College,Yes
+4379,14379,Graduate,Yes
+4380,14380,College,Yes
+4381,14381,High School,Yes
+4382,14382,High School,Yes
+4383,14383,Graduate,Yes
+4384,14384,Some College,Yes
+4385,14385,High School,Yes
+4386,14386,High School,Yes
+4387,14387,Graduate,Yes
+4388,14388,Graduate,Yes
+4389,14389,Graduate,Yes
+4390,14390,High School,Yes
+4391,14391,College,Yes
+4392,14392,High School,Yes
+4393,14393,Graduate,Yes
+4394,14394,Some College,Yes
+4395,14395,Some College,Yes
+4396,14396,Graduate,Yes
+4397,14397,Some College,No
+4398,14398,High School,No
+4399,14399,College,Yes
+4400,14400,High School,Yes
+4401,14401,Graduate,No
+4402,14402,High School,Yes
+4403,14403,Some College,Yes
+4404,14404,High School,Yes
+4405,14405,College,Yes
+4406,14406,Some College,Yes
+4407,14407,College,Yes
+4408,14408,College,Yes
+4409,14409,College,Yes
+4410,14410,High School,Yes
+4411,14411,High School,Yes
+4412,14412,High School,Yes
+4413,14413,High School,Yes
+4414,14414,Some College,Yes
+4415,14415,High School,Yes
+4416,14416,Some College,Yes
+4417,14417,College,Yes
+4418,14418,Some College,Yes
+4419,14419,Graduate,Yes
+4420,14420,High School,Yes
+4421,14421,Graduate,Yes
+4422,14422,Some College,Yes
+4423,14423,High School,Yes
+4424,14424,Graduate,Yes
+4425,14425,High School,Yes
+4426,14426,Some College,Yes
+4427,14427,Graduate,Yes
+4428,14428,Some College,Yes
+4429,14429,Graduate,Yes
+4430,14430,College,Yes
+4431,14431,College,Yes
+4432,14432,College,Yes
+4433,14433,College,Yes
+4434,14434,College,Yes
+4435,14435,Some College,Yes
+4436,14436,College,Yes
+4437,14437,Some College,Yes
+4438,14438,College,Yes
+4439,14439,High School,No
+4440,14440,College,Yes
+4441,14441,High School,No
+4442,14442,Some College,Yes
+4443,14443,College,Yes
+4444,14444,Graduate,Yes
+4445,14445,Some College,Yes
+4446,14446,College,Yes
+4447,14447,Some College,Yes
+4448,14448,Graduate,No
+4449,14449,College,Yes
+4450,14450,Graduate,Yes
+4451,14451,College,Yes
+4452,14452,High School,No
+4453,14453,Some College,Yes
+4454,14454,Graduate,Yes
+4455,14455,Some College,Yes
+4456,14456,Graduate,Yes
+4457,14457,Some College,No
+4458,14458,Some College,Yes
+4459,14459,Some College,Yes
+4460,14460,High School,Yes
+4461,14461,College,Yes
+4462,14462,High School,Yes
+4463,14463,Some College,Yes
+4464,14464,Graduate,Yes
+4465,14465,Some College,Yes
+4466,14466,College,Yes
+4467,14467,High School,Yes
+4468,14468,College,No
+4469,14469,Graduate,No
+4470,14470,College,Yes
+4471,14471,High School,Yes
+4472,14472,Graduate,Yes
+4473,14473,College,Yes
+4474,14474,High School,Yes
+4475,14475,High School,Yes
+4476,14476,Some College,Yes
+4477,14477,College,Yes
+4478,14478,Graduate,Yes
+4479,14479,Some College,Yes
+4480,14480,College,Yes
+4481,14481,College,Yes
+4482,14482,Graduate,Yes
+4483,14483,Some College,Yes
+4484,14484,Some College,Yes
+4485,14485,Graduate,Yes
+4486,14486,Some College,Yes
+4487,14487,High School,Yes
+4488,14488,Graduate,Yes
+4489,14489,College,No
+4490,14490,Graduate,Yes
+4491,14491,High School,Yes
+4492,14492,Graduate,Yes
+4493,14493,College,Yes
+4494,14494,College,Yes
+4495,14495,Graduate,Yes
+4496,14496,Graduate,Yes
+4497,14497,High School,Yes
+4498,14498,High School,Yes
+4499,14499,College,Yes
+4500,14500,Some College,Yes
+4501,14501,Some College,Yes
+4502,14502,Some College,No
+4503,14503,Some College,Yes
+4504,14504,College,Yes
+4505,14505,Some College,Yes
+4506,14506,Some College,Yes
+4507,14507,Graduate,Yes
+4508,14508,Some College,Yes
+4509,14509,Graduate,Yes
+4510,14510,College,No
+4511,14511,Graduate,Yes
+4512,14512,High School,Yes
+4513,14513,Graduate,Yes
+4514,14514,Some College,Yes
+4515,14515,Graduate,Yes
+4516,14516,Graduate,Yes
+4517,14517,College,Yes
+4518,14518,College,No
+4519,14519,Some College,Yes
+4520,14520,High School,Yes
+4521,14521,High School,Yes
+4522,14522,Graduate,Yes
+4523,14523,High School,Yes
+4524,14524,College,Yes
+4525,14525,Some College,Yes
+4526,14526,Some College,Yes
+4527,14527,College,Yes
+4528,14528,Some College,Yes
+4529,14529,Graduate,Yes
+4530,14530,Some College,Yes
+4531,14531,High School,Yes
+4532,14532,Some College,Yes
+4533,14533,Some College,Yes
+4534,14534,College,Yes
+4535,14535,College,No
+4536,14536,High School,Yes
+4537,14537,College,Yes
+4538,14538,High School,Yes
+4539,14539,Graduate,Yes
+4540,14540,High School,Yes
+4541,14541,Some College,Yes
+4542,14542,High School,Yes
+4543,14543,Graduate,Yes
+4544,14544,Some College,Yes
+4545,14545,High School,Yes
+4546,14546,College,Yes
+4547,14547,College,Yes
+4548,14548,College,Yes
+4549,14549,High School,Yes
+4550,14550,High School,Yes
+4551,14551,Graduate,Yes
+4552,14552,Some College,Yes
+4553,14553,Some College,Yes
+4554,14554,Some College,No
+4555,14555,Some College,Yes
+4556,14556,High School,No
+4557,14557,High School,Yes
+4558,14558,Graduate,Yes
+4559,14559,Some College,Yes
+4560,14560,High School,Yes
+4561,14561,High School,Yes
+4562,14562,High School,Yes
+4563,14563,High School,Yes
+4564,14564,Some College,Yes
+4565,14565,Some College,Yes
+4566,14566,High School,Yes
+4567,14567,College,Yes
+4568,14568,Graduate,Yes
+4569,14569,Some College,Yes
+4570,14570,Some College,Yes
+4571,14571,College,Yes
+4572,14572,Some College,Yes
+4573,14573,College,Yes
+4574,14574,College,Yes
+4575,14575,High School,Yes
+4576,14576,Some College,Yes
+4577,14577,Graduate,Yes
+4578,14578,College,Yes
+4579,14579,Graduate,Yes
+4580,14580,High School,Yes
+4581,14581,Some College,Yes
+4582,14582,High School,Yes
+4583,14583,High School,Yes
+4584,14584,Graduate,Yes
+4585,14585,Graduate,Yes
+4586,14586,College,Yes
+4587,14587,Some College,Yes
+4588,14588,High School,Yes
+4589,14589,College,Yes
+4590,14590,College,Yes
+4591,14591,High School,Yes
+4592,14592,High School,Yes
+4593,14593,College,Yes
+4594,14594,High School,Yes
+4595,14595,High School,Yes
+4596,14596,Graduate,Yes
+4597,14597,Some College,Yes
+4598,14598,College,Yes
+4599,14599,High School,Yes
+4600,14600,College,Yes
+4601,14601,Some College,Yes
+4602,14602,College,Yes
+4603,14603,College,Yes
+4604,14604,College,No
+4605,14605,Graduate,Yes
+4606,14606,Some College,Yes
+4607,14607,Some College,Yes
+4608,14608,College,No
+4609,14609,College,Yes
+4610,14610,Some College,Yes
+4611,14611,High School,Yes
+4612,14612,Graduate,Yes
+4613,14613,Some College,Yes
+4614,14614,College,Yes
+4615,14615,High School,Yes
+4616,14616,High School,Yes
+4617,14617,High School,Yes
+4618,14618,Graduate,Yes
+4619,14619,Graduate,Yes
+4620,14620,Some College,No
+4621,14621,Some College,Yes
+4622,14622,Some College,Yes
+4623,14623,Some College,Yes
+4624,14624,College,Yes
+4625,14625,Graduate,Yes
+4626,14626,High School,Yes
+4627,14627,College,Yes
+4628,14628,Some College,Yes
+4629,14629,Some College,Yes
+4630,14630,College,Yes
+4631,14631,High School,Yes
+4632,14632,Graduate,No
+4633,14633,Graduate,Yes
+4634,14634,High School,Yes
+4635,14635,Graduate,Yes
+4636,14636,Some College,Yes
+4637,14637,Some College,Yes
+4638,14638,Some College,Yes
+4639,14639,Some College,Yes
+4640,14640,High School,Yes
+4641,14641,Graduate,Yes
+4642,14642,Graduate,Yes
+4643,14643,College,Yes
+4644,14644,High School,Yes
+4645,14645,Graduate,Yes
+4646,14646,Graduate,No
+4647,14647,College,Yes
+4648,14648,Some College,Yes
+4649,14649,Graduate,Yes
+4650,14650,Some College,Yes
+4651,14651,College,Yes
+4652,14652,Graduate,Yes
+4653,14653,Some College,Yes
+4654,14654,High School,Yes
+4655,14655,Some College,Yes
+4656,14656,Some College,Yes
+4657,14657,Some College,Yes
+4658,14658,Some College,Yes
+4659,14659,High School,Yes
+4660,14660,College,No
+4661,14661,Some College,Yes
+4662,14662,Some College,Yes
+4663,14663,Graduate,Yes
+4664,14664,Graduate,Yes
+4665,14665,High School,Yes
+4666,14666,High School,Yes
+4667,14667,High School,Yes
+4668,14668,Graduate,No
+4669,14669,Some College,Yes
+4670,14670,Graduate,Yes
+4671,14671,College,Yes
+4672,14672,High School,Yes
+4673,14673,High School,Yes
+4674,14674,High School,Yes
+4675,14675,College,Yes
+4676,14676,Some College,Yes
+4677,14677,Some College,Yes
+4678,14678,Some College,Yes
+4679,14679,High School,Yes
+4680,14680,Some College,Yes
+4681,14681,Graduate,Yes
+4682,14682,High School,Yes
+4683,14683,College,Yes
+4684,14684,College,Yes
+4685,14685,Some College,Yes
+4686,14686,High School,Yes
+4687,14687,Graduate,No
+4688,14688,Graduate,Yes
+4689,14689,High School,Yes
+4690,14690,Some College,Yes
+4691,14691,College,Yes
+4692,14692,College,Yes
+4693,14693,Graduate,Yes
+4694,14694,Graduate,No
+4695,14695,Graduate,Yes
+4696,14696,College,Yes
+4697,14697,Graduate,Yes
+4698,14698,College,Yes
+4699,14699,College,Yes
+4700,14700,Some College,Yes
+4701,14701,Some College,Yes
+4702,14702,Some College,Yes
+4703,14703,Graduate,Yes
+4704,14704,College,Yes
+4705,14705,Graduate,Yes
+4706,14706,College,Yes
+4707,14707,Some College,Yes
+4708,14708,Some College,Yes
+4709,14709,Graduate,Yes
+4710,14710,College,Yes
+4711,14711,Graduate,Yes
+4712,14712,High School,Yes
+4713,14713,Graduate,Yes
+4714,14714,Some College,Yes
+4715,14715,College,Yes
+4716,14716,College,Yes
+4717,14717,Graduate,Yes
+4718,14718,Some College,No
+4719,14719,High School,Yes
+4720,14720,Graduate,Yes
+4721,14721,College,Yes
+4722,14722,Some College,Yes
+4723,14723,College,Yes
+4724,14724,College,No
+4725,14725,College,Yes
+4726,14726,College,Yes
+4727,14727,High School,Yes
+4728,14728,Some College,Yes
+4729,14729,Graduate,Yes
+4730,14730,Some College,Yes
+4731,14731,Some College,Yes
+4732,14732,Some College,Yes
+4733,14733,Graduate,Yes
+4734,14734,Some College,Yes
+4735,14735,Graduate,Yes
+4736,14736,Graduate,Yes
+4737,14737,High School,Yes
+4738,14738,College,Yes
+4739,14739,Graduate,Yes
+4740,14740,College,Yes
+4741,14741,Some College,Yes
+4742,14742,College,Yes
+4743,14743,College,Yes
+4744,14744,College,Yes
+4745,14745,Some College,Yes
+4746,14746,Some College,Yes
+4747,14747,Graduate,Yes
+4748,14748,Graduate,Yes
+4749,14749,High School,Yes
+4750,14750,Some College,Yes
+4751,14751,High School,Yes
+4752,14752,Some College,Yes
+4753,14753,College,Yes
+4754,14754,High School,Yes
+4755,14755,High School,Yes
+4756,14756,High School,Yes
+4757,14757,Some College,Yes
+4758,14758,Graduate,Yes
+4759,14759,High School,Yes
+4760,14760,Graduate,Yes
+4761,14761,Some College,Yes
+4762,14762,High School,Yes
+4763,14763,Some College,No
+4764,14764,Graduate,Yes
+4765,14765,Graduate,Yes
+4766,14766,High School,Yes
+4767,14767,Graduate,Yes
+4768,14768,College,No
+4769,14769,College,Yes
+4770,14770,High School,Yes
+4771,14771,Some College,Yes
+4772,14772,Some College,Yes
+4773,14773,Some College,Yes
+4774,14774,College,Yes
+4775,14775,Graduate,Yes
+4776,14776,College,Yes
+4777,14777,Graduate,Yes
+4778,14778,College,Yes
+4779,14779,Some College,Yes
+4780,14780,Some College,Yes
+4781,14781,Some College,Yes
+4782,14782,High School,Yes
+4783,14783,High School,Yes
+4784,14784,Graduate,Yes
+4785,14785,High School,Yes
+4786,14786,College,Yes
+4787,14787,College,Yes
+4788,14788,Graduate,Yes
+4789,14789,Graduate,Yes
+4790,14790,Some College,Yes
+4791,14791,High School,Yes
+4792,14792,Some College,Yes
+4793,14793,High School,Yes
+4794,14794,High School,Yes
+4795,14795,Graduate,Yes
+4796,14796,Some College,Yes
+4797,14797,Some College,Yes
+4798,14798,High School,Yes
+4799,14799,High School,No
+4800,14800,Graduate,Yes
+4801,14801,College,Yes
+4802,14802,Some College,Yes
+4803,14803,Some College,Yes
+4804,14804,Graduate,Yes
+4805,14805,Graduate,Yes
+4806,14806,Some College,Yes
+4807,14807,Some College,Yes
+4808,14808,High School,Yes
+4809,14809,College,Yes
+4810,14810,Some College,Yes
+4811,14811,Graduate,Yes
+4812,14812,High School,Yes
+4813,14813,High School,Yes
+4814,14814,Graduate,Yes
+4815,14815,Graduate,Yes
+4816,14816,High School,Yes
+4817,14817,Graduate,Yes
+4818,14818,High School,Yes
+4819,14819,Graduate,Yes
+4820,14820,High School,Yes
+4821,14821,Some College,Yes
+4822,14822,Some College,Yes
+4823,14823,Graduate,Yes
+4824,14824,College,Yes
+4825,14825,Some College,Yes
+4826,14826,High School,Yes
+4827,14827,College,Yes
+4828,14828,High School,Yes
+4829,14829,High School,Yes
+4830,14830,Some College,Yes
+4831,14831,Graduate,Yes
+4832,14832,Graduate,Yes
+4833,14833,High School,Yes
+4834,14834,Some College,Yes
+4835,14835,High School,Yes
+4836,14836,College,Yes
+4837,14837,High School,Yes
+4838,14838,Some College,Yes
+4839,14839,High School,Yes
+4840,14840,Some College,Yes
+4841,14841,Graduate,Yes
+4842,14842,Some College,Yes
+4843,14843,College,Yes
+4844,14844,Some College,Yes
+4845,14845,College,Yes
+4846,14846,College,Yes
+4847,14847,High School,Yes
+4848,14848,College,Yes
+4849,14849,Some College,Yes
+4850,14850,Graduate,Yes
+4851,14851,Some College,Yes
+4852,14852,Graduate,Yes
+4853,14853,College,Yes
+4854,14854,High School,Yes
+4855,14855,College,Yes
+4856,14856,College,Yes
+4857,14857,Graduate,Yes
+4858,14858,Some College,Yes
+4859,14859,High School,Yes
+4860,14860,High School,No
+4861,14861,High School,Yes
+4862,14862,High School,Yes
+4863,14863,Some College,Yes
+4864,14864,High School,Yes
+4865,14865,Graduate,Yes
+4866,14866,Graduate,Yes
+4867,14867,High School,Yes
+4868,14868,High School,Yes
+4869,14869,Some College,Yes
+4870,14870,Some College,Yes
+4871,14871,High School,Yes
+4872,14872,Some College,Yes
+4873,14873,College,Yes
+4874,14874,High School,Yes
+4875,14875,Some College,Yes
+4876,14876,Graduate,Yes
+4877,14877,High School,No
+4878,14878,High School,Yes
+4879,14879,Graduate,Yes
+4880,14880,Graduate,Yes
+4881,14881,Some College,Yes
+4882,14882,Graduate,Yes
+4883,14883,College,Yes
+4884,14884,High School,No
+4885,14885,College,Yes
+4886,14886,Some College,Yes
+4887,14887,Graduate,No
+4888,14888,High School,Yes
+4889,14889,Graduate,Yes
+4890,14890,Graduate,Yes
+4891,14891,Some College,Yes
+4892,14892,Some College,Yes
+4893,14893,Some College,Yes
+4894,14894,Some College,No
+4895,14895,High School,Yes
+4896,14896,College,Yes
+4897,14897,College,Yes
+4898,14898,High School,Yes
+4899,14899,Graduate,Yes
+4900,14900,High School,Yes
+4901,14901,College,Yes
+4902,14902,College,Yes
+4903,14903,High School,Yes
+4904,14904,Some College,Yes
+4905,14905,Graduate,Yes
+4906,14906,High School,Yes
+4907,14907,College,Yes
+4908,14908,Some College,Yes
+4909,14909,Graduate,Yes
+4910,14910,College,Yes
+4911,14911,Graduate,No
+4912,14912,Some College,Yes
+4913,14913,College,Yes
+4914,14914,Some College,No
+4915,14915,High School,Yes
+4916,14916,High School,Yes
+4917,14917,Graduate,Yes
+4918,14918,Some College,Yes
+4919,14919,Some College,Yes
+4920,14920,Graduate,Yes
+4921,14921,Graduate,Yes
+4922,14922,Graduate,Yes
+4923,14923,High School,Yes
+4924,14924,Graduate,Yes
+4925,14925,High School,Yes
+4926,14926,Graduate,Yes
+4927,14927,Some College,Yes
+4928,14928,Some College,Yes
+4929,14929,Graduate,Yes
+4930,14930,Graduate,Yes
+4931,14931,High School,Yes
+4932,14932,College,No
+4933,14933,High School,Yes
+4934,14934,Some College,Yes
+4935,14935,Graduate,Yes
+4936,14936,Some College,Yes
+4937,14937,College,Yes
+4938,14938,High School,Yes
+4939,14939,Some College,Yes
+4940,14940,High School,Yes
+4941,14941,Graduate,Yes
+4942,14942,Some College,Yes
+4943,14943,College,Yes
+4944,14944,High School,Yes
+4945,14945,High School,No
+4946,14946,College,Yes
+4947,14947,Some College,Yes
+4948,14948,Some College,Yes
+4949,14949,High School,Yes
+4950,14950,College,No
+4951,14951,High School,Yes
+4952,14952,High School,Yes
+4953,14953,Graduate,Yes
+4954,14954,Some College,Yes
+4955,14955,Some College,Yes
+4956,14956,Graduate,Yes
+4957,14957,Some College,Yes
+4958,14958,Some College,Yes
+4959,14959,Some College,Yes
+4960,14960,College,Yes
+4961,14961,Graduate,Yes
+4962,14962,High School,Yes
+4963,14963,College,No
+4964,14964,High School,Yes
+4965,14965,Graduate,Yes
+4966,14966,Graduate,Yes
+4967,14967,Graduate,Yes
+4968,14968,Some College,Yes
+4969,14969,College,Yes
+4970,14970,Graduate,No
+4971,14971,High School,Yes
+4972,14972,Some College,No
+4973,14973,Some College,Yes
+4974,14974,College,Yes
+4975,14975,College,Yes
+4976,14976,College,Yes
+4977,14977,Some College,Yes
+4978,14978,Graduate,Yes
+4979,14979,High School,No
+4980,14980,Graduate,Yes
+4981,14981,High School,Yes
+4982,14982,Graduate,Yes
+4983,14983,College,Yes
+4984,14984,High School,Yes
+4985,14985,Some College,Yes
+4986,14986,High School,Yes
+4987,14987,Some College,Yes
+4988,14988,Graduate,No
+4989,14989,College,Yes
+4990,14990,High School,Yes
+4991,14991,Some College,Yes
+4992,14992,Graduate,Yes
+4993,14993,College,Yes
+4994,14994,College,Yes
+4995,14995,College,Yes
+4996,14996,Graduate,Yes
+4997,14997,Graduate,Yes
+4998,14998,Graduate,Yes
+4999,14999,College,No
+5000,15000,High School,Yes
