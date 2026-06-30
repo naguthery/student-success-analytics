@@ -118,7 +118,6 @@ The analysis includes metrics such as:
 ---
 
 ## Repository Structure
-
 student-success-analytics/  
 │  
 ├── README.md  
