@@ -7,4 +7,3 @@ This folder contains the final Tableau dashboards created as part of the Student
   - Course & Instructor Performance Dashboard
   - Student Risk & Performance Dashboard
 - Links to the interactive Tableau Public dashboards
-- Screenshots of each dashboard
